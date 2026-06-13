@@ -46,13 +46,14 @@ https://en.wikipedia.org/wiki/Viral_marketing
 用途:
 共有や口コミによって情報が広がるマーケティング文脈を確認する。
 
-### Marketing buzz - Wikipedia
+### Word-of-mouth marketing / Marketing buzz - Wikipedia
 
-URL:
+URLs:
+https://en.wikipedia.org/wiki/Word-of-mouth_marketing
 https://en.wikipedia.org/wiki/Marketing_buzz
 
 用途:
-話題化、口コミ、注目の集まりとしての buzz の文脈を確認する。
+口コミによる伝播、話題化、注目の集まりとしての buzz の文脈を確認する。
 
 ### Meme - Wikipedia
 
