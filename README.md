@@ -4,7 +4,7 @@
 
 HSSモデル本体は、別リポジトリで管理します。
 
-* HSS core model: https://github.com/kuroam/hss-observation-notes
+- HSS core model: https://github.com/kuroam/hss-observation-notes
 
 ここに置くレポートは、HSSの証明ではありません。
 

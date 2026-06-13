@@ -46,7 +46,7 @@ https://en.wikipedia.org/wiki/Peter_Drucker
 用途:
 Peter Drucker の著作・関連文献として The Five Most Important Questions が確認できるため、mission、customer、customer value、results、plan といった問いがDrucker関連文脈で流通していることを確認するsource anchorとして扱う。
 
-Note:
+補足:
 This source anchor does not prove that the HSS interpretation is Drucker’s intent. It only supports the circulated Drucker-related question set used as the report’s starting point.
 
 ## 補助記事
