@@ -36,6 +36,19 @@ https://en.wikipedia.org/wiki/Knowledge_worker
 用途:
 knowledge worker概念とDruckerの接続を確認する補助ソースとして扱う。
 
+## Druckerの問いに関するsource anchor
+
+### The Five Most Important Questions You Will Ever Ask About Your Organization
+
+URL:
+https://en.wikipedia.org/wiki/Peter_Drucker
+
+用途:
+Peter Drucker の著作・関連文献として The Five Most Important Questions が確認できるため、mission、customer、customer value、results、plan といった問いがDrucker関連文脈で流通していることを確認するsource anchorとして扱う。
+
+Note:
+This source anchor does not prove that the HSS interpretation is Drucker’s intent. It only supports the circulated Drucker-related question set used as the report’s starting point.
+
 ## 補助記事
 
 ### The Rise and Fall of Getting Things Done - The New Yorker
@@ -60,10 +73,12 @@ Druckerによる、管理技法と、より深い事業の前提・mission・env
 
 URLs:
 https://www.wsj.com/business/biggest-gains-customer-satisfaction-management-top-250-1e6a585b
-https://www.wsj.com/business/top-companies-employee-engagement-development-38d7a3b6
+https://www.wsj.com/business/biggest-gains-employee-engagement-d4f4ff15
+https://www.wsj.com/business/top-companies-social-responsibility-1b4b807e
+https://www.wsj.com/business/top-companies-innovation-183755db
 
 用途:
-Drucker関連のマネジメント原則が、customer satisfaction、employee engagement and development、innovation、social responsibility、financial strength などの測定可能な領域へ運用化される例として補助的に扱う。
+Drucker Institute による Management Top 250 が、Druckerのマネジメント原則を customer satisfaction、employee engagement and development、innovation、social responsibility、financial strength などの測定可能な管理次元へ運用化している例として補助的に扱う。
 
 ## 注意
 
