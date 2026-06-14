@@ -64,6 +64,26 @@ when reconnection becomes weak:
   indicators begin to behave like objectives
 ```
 
+### 観測フロー
+
+```mermaid
+flowchart LR
+  A[ドラッカー的な問い<br/>mission / customer / customer value / results / plan]
+    --> B[実務で扱える処理形式<br/>objectives / MBO / KPI / evaluation / dashboard]
+
+  B --> C[制度化・運用]
+  C --> D[圧縮されたsymbolとして循環]
+  D --> E{再接続できるか}
+
+  E --再接続できる--> F[目的 / 顧客 / 価値 / 成果が見える]
+  F --> A
+
+  E --再接続が細る--> G[指標が目的のように振る舞う]
+  G -.固定化.-> H[KPIが補助線から目的そのものへ近づく]
+```
+
+この図は、ドラッカー原典の確定解釈ではなく、HSSで観測できる範囲において、問いや目的が実務上の指標・評価形式へ圧縮され、再接続できる場合と細る場合を整理するための作業図です。
+
 ## 4. 分解結果
 
 | 平均化されたドラッカー像            | 実務への圧縮       | HSSで見える状態     |
