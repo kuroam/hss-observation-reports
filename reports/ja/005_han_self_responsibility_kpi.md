@@ -110,7 +110,7 @@ objectives / KPI / evaluation / dashboard
 | 責任    | 処理負荷の配置              | 個人側の説明義務、自己管理     |
 | 自己管理  | 管理が個人側へ置かれたように見える状態  | 時間、行動、成果          |
 | 自己最適化 | 最適化が個人側へ置かれたように見える状態 | 能力、効率、生産性         |
-| 自己責任化 | 責任が個人側へ置かれたように見える状態  | 評価、成果、失敗説明        |
+| 自己責任化 | 責任が個人側へ置かれたように見える状態  | 評価、成果、説明要求        |
 
 ## 6. HSSモデルから推測できる観測仮説
 
@@ -169,9 +169,9 @@ HSSでは、疲労そのものを心理状態として定義しません。
   - https://www.sup.org/books/title?id=25832
   - transparency、可視化、control、情報、解釈の文脈を確認するsource anchorとして扱う。
 
-- 1. ドラッカーのマネジメントとKPIへの圧縮
+- 001. ドラッカーのマネジメントとKPIへの圧縮
 
-  - [sources/ja/001_drucker_sources.md](sources/ja/001_drucker_sources.md)
+  - [001_drucker_management_kpi.md](001_drucker_management_kpi.md)
   - HSS側で、問いや目的がKPI・評価制度・dashboardへ圧縮される構造と接続するために参照する。
 
 ## 9. 短い結論
