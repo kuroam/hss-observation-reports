@@ -169,8 +169,7 @@ HSSでは、疲労そのものを心理状態として定義しません。
   - https://www.sup.org/books/title?id=25832
   - transparency、可視化、control、情報、解釈の文脈を確認するsource anchorとして扱う。
 
-- 001. ドラッカーのマネジメントとKPIへの圧縮
-
+### 001. ドラッカーのマネジメントとKPIへの圧縮
   - [001_drucker_management_kpi.md](001_drucker_management_kpi.md)
   - HSS側で、問いや目的がKPI・評価制度・dashboardへ圧縮される構造と接続するために参照する。
 
