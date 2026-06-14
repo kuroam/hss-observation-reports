@@ -171,7 +171,7 @@ HSSでは、疲労そのものを心理状態として定義しません。
 
 - 1. ドラッカーのマネジメントとKPIへの圧縮
 
-  - reports/ja/001_drucker_management_kpi.md
+  - [sources/ja/001_drucker_sources.md](sources/ja/001_drucker_sources.md)
   - HSS側で、問いや目的がKPI・評価制度・dashboardへ圧縮される構造と接続するために参照する。
 
 ## 9. 短い結論
