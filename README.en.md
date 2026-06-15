@@ -68,7 +68,7 @@ The initial report group should be read not only as separate cases, but also as 
 
 - 001 → 005: Organizational compression into KPI formats, and individual-side routing of management, optimization, and responsibility.
 - 002 → 004 → 006: One-shot symbols, sasaru/kasuru, low-connection symbols, and view-count business.
-- 003 → 004: Unfixed connection candidates, traces that remain after only grazing, and processing forms that remain as invoice bundles.
+- 003 → 004: Unfixed connection candidates, traces that remain after only touching the edge of a reconnectable area, and processing forms that remain as invoice bundles.
 
 These connections do not fix the conclusions of the reports.
 
