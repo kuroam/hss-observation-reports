@@ -2,6 +2,8 @@
 
 このリポジトリは、HSSモデルを用いた実際の観測レポート集です。
 
+English working version: [README.en.md](README.en.md)
+
 HSSモデル本体は、別リポジトリで管理します。
 
 - HSS core model: https://github.com/kuroam/hss-observation-notes
