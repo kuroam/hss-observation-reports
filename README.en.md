@@ -60,7 +60,7 @@ The table below lists the Japanese canonical reports and the available English w
 | 003 | [sources/ja/003_innovation_sources.md](sources/ja/003_innovation_sources.md) | [sources/en/003_innovation_sources.md](sources/en/003_innovation_sources.md) |
 | 004 | [sources/ja/004_sasaru_sources.md](sources/ja/004_sasaru_sources.md) | [sources/en/004_sasaru_sources.md](sources/en/004_sasaru_sources.md) |
 | 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) | [sources/en/005_han_sources.md](sources/en/005_han_sources.md) |
-| 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) | Planned |
+| 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) | [sources/en/006_ai_slop_sources.md](sources/en/006_ai_slop_sources.md) |
 
 ## Connections Between Reports
 
