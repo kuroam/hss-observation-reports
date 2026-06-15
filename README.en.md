@@ -56,7 +56,7 @@ The table below lists the Japanese canonical reports and the available English w
 | No. | Japanese source note | English source note |
 | --- | --- | --- |
 | 001 | [sources/ja/001_drucker_sources.md](sources/ja/001_drucker_sources.md) | [sources/en/001_drucker_sources.md](sources/en/001_drucker_sources.md) |
-| 002 | [sources/ja/002_ippatsu_gag_sources.md](sources/ja/002_ippatsu_gag_sources.md) | Planned |
+| 002 | [sources/ja/002_ippatsu_gag_sources.md](sources/ja/002_ippatsu_gag_sources.md) | [sources/en/002_ippatsu_gag_sources.md](sources/en/002_ippatsu_gag_sources.md) |
 | 003 | [sources/ja/003_innovation_sources.md](sources/ja/003_innovation_sources.md) | Planned |
 | 004 | [sources/ja/004_sasaru_sources.md](sources/ja/004_sasaru_sources.md) | Planned |
 | 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) | Planned |
