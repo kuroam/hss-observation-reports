@@ -56,7 +56,7 @@ Use `source anchor` rather than `evidence` when referring to sources that provid
 Preferred wording:
 
 ```text
-These sources are used as source anchors, not as foundations or HSS evidence.
+These sources are used as source anchors, not as foundations or evidence for HSS.
 ```
 
 Do not imply that external sources are the origin, proof, or authority for HSS.

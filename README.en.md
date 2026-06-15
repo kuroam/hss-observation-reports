@@ -53,14 +53,14 @@ English report translations will be added separately after the English terminolo
 
 ## Source Notes
 
-| No. | Japanese source note |
-| --- | --- |
-| 001 | [sources/ja/001_drucker_sources.md](sources/ja/001_drucker_sources.md) |
-| 002 | [sources/ja/002_ippatsu_gag_sources.md](sources/ja/002_ippatsu_gag_sources.md) |
-| 003 | [sources/ja/003_innovation_sources.md](sources/ja/003_innovation_sources.md) |
-| 004 | [sources/ja/004_sasaru_sources.md](sources/ja/004_sasaru_sources.md) |
-| 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) |
-| 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) |
+| No. | Japanese source note | English source note |
+| --- | --- | --- |
+| 001 | [sources/ja/001_drucker_sources.md](sources/ja/001_drucker_sources.md) | [sources/en/001_drucker_sources.md](sources/en/001_drucker_sources.md) |
+| 002 | [sources/ja/002_ippatsu_gag_sources.md](sources/ja/002_ippatsu_gag_sources.md) | Planned |
+| 003 | [sources/ja/003_innovation_sources.md](sources/ja/003_innovation_sources.md) | Planned |
+| 004 | [sources/ja/004_sasaru_sources.md](sources/ja/004_sasaru_sources.md) | Planned |
+| 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) | Planned |
+| 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) | Planned |
 
 ## Connections Between Reports
 
