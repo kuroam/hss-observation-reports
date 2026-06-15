@@ -1,6 +1,6 @@
 # 006. AI Slop Sources
 
-This source note supports `reports/ja/006_ai_slop_conveyor_belt.md`.
+This source note supports [reports/en/006_ai_slop_conveyor_belt.md](../../reports/en/006_ai_slop_conveyor_belt.md).
 
 This note does not provide an exhaustive summary of the sources.
 
