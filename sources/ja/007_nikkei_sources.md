@@ -76,13 +76,13 @@ https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/kokunai_01.html
 用途:
 名目賃金が上昇しても実質賃金が低下している文脈を確認し、労働者側に残る処理負荷や生活実感と、企業価値・株価として価格化される数字のズレを観測するための補助線として扱う。
 
-### 毎月勤労統計調査 2025年分結果速報 - 厚生労働省
+### Monthly Labour Survey - Ministry of Health, Labour and Welfare
 
 URL:
-https://www.mhlw.go.jp/haishin/u/l?p=O9hTfY0ZRDfUx1qpY
+https://www.mhlw.go.jp/english/database/db-l/monthly-labour.html
 
 用途:
-賃金、労働時間、常用雇用、実質賃金などの統計文脈を確認する。
+毎月勤労統計調査の統計系列、賃金、労働時間、常用雇用などの統計文脈を確認するためのsource anchorとして扱う。2025年の実質賃金前年比マイナス1.3%という具体的な文脈は、JILPT記事側で確認する。
 
 ## HSS内の接続先
 
