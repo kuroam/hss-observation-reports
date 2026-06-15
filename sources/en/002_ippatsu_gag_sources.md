@@ -1,6 +1,6 @@
 # 002. One-Shot Gag Sources
 
-This source note supports [reports/en/002_ippatsu_gag_buzz_gei_system.md](../../reports/en/002_ippatsu_gag_buzz_gei_system.md).
+This source note supports [reports/en/002_ippatsu_gag_buzz_gei_system.md](https://github.com/kuroam/hss-observation-reports/blob/main/reports/en/002_ippatsu_gag_buzz_gei_system.md).
 
 This note does not provide an exhaustive summary of the sources.
 

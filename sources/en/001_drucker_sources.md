@@ -1,6 +1,6 @@
 # 001. Drucker Sources
 
-This source note supports [reports/en/001_drucker_management_kpi.md](../../reports/en/001_drucker_management_kpi.md).
+This source note supports [reports/en/001_drucker_management_kpi.md](https://github.com/kuroam/hss-observation-reports/blob/main/reports/en/001_drucker_management_kpi.md).
 
 This note does not provide an exhaustive summary of the sources.
 

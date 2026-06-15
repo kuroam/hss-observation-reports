@@ -1,6 +1,6 @@
 # 006. AI Slop Sources
 
-This source note supports [reports/en/006_ai_slop_conveyor_belt.md](../../reports/en/006_ai_slop_conveyor_belt.md).
+This source note supports [reports/en/006_ai_slop_conveyor_belt.md](https://github.com/kuroam/hss-observation-reports/blob/main/reports/en/006_ai_slop_conveyor_belt.md).
 
 This note does not provide an exhaustive summary of the sources.
 

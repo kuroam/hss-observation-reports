@@ -1,6 +1,6 @@
 # 005. Han Sources
 
-This source note supports [reports/en/005_han_self_responsibility_kpi.md](../../reports/en/005_han_self_responsibility_kpi.md).
+This source note supports [reports/en/005_han_self_responsibility_kpi.md](https://github.com/kuroam/hss-observation-reports/blob/main/reports/en/005_han_self_responsibility_kpi.md).
 
 This note does not provide an exhaustive summary of the sources.
 

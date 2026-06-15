@@ -1,6 +1,6 @@
 # 003. Innovation / Business Process Sources
 
-This source note supports [reports/en/003_innovation_invoice_bundle.md](../../reports/en/003_innovation_invoice_bundle.md).
+This source note supports [reports/en/003_innovation_invoice_bundle.md](https://github.com/kuroam/hss-observation-reports/blob/main/reports/en/003_innovation_invoice_bundle.md).
 
 This note does not provide an exhaustive summary of the sources.
 
