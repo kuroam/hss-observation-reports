@@ -89,7 +89,7 @@ https://www.mhlw.go.jp/haishin/u/l?p=O9hTfY0ZRDfUx1qpY
 ### 001. ドラッカーのマネジメントとKPIへの圧縮
 
 Path:
-reports/ja/001_drucker_management_kpi.md
+[reports/ja/001_drucker_management_kpi.md](../../reports/ja/001_drucker_management_kpi.md)
 
 用途:
 日経平均を、日本経済・企業価値を読むKPI / dashboard 的な処理形式として読むために参照する。
@@ -97,7 +97,7 @@ reports/ja/001_drucker_management_kpi.md
 ### 003. イノベーションはなぜ伝票の束で止まるのか
 
 Path:
-reports/ja/003_innovation_invoice_bundle.md
+[reports/ja/003_innovation_invoice_bundle.md](../../reports/ja/003_innovation_invoice_bundle.md)
 
 用途:
 未固定の価値や接続候補が、PBR、ROE、資本効率、株主還元など、市場が処理しやすい形式へ変換される構造と接続して読むために参照する。
@@ -105,7 +105,7 @@ reports/ja/003_innovation_invoice_bundle.md
 ### 004. 「刺さる」と「かする」の接続構造
 
 Path:
-reports/ja/004_sasaru_kasuru_connection.md
+[reports/ja/004_sasaru_kasuru_connection.md](../../reports/ja/004_sasaru_kasuru_connection.md)
 
 用途:
 日経平均上昇が、バブル後、失われた30年、デフレ後、日本再評価といった積層historyへ接続する構造と接続して読むために参照する。
@@ -113,7 +113,7 @@ reports/ja/004_sasaru_kasuru_connection.md
 ### 005. 自己責任化は個人版KPIである
 
 Path:
-reports/ja/005_han_self_responsibility_kpi.md
+[reports/ja/005_han_self_responsibility_kpi.md](../../reports/ja/005_han_self_responsibility_kpi.md)
 
 用途:
 管理・最適化・責任が個人側へルーティングされる構造と、労働者・現場・運用側に積層された価値が企業価値として価格化される構造を接続して読むために参照する。

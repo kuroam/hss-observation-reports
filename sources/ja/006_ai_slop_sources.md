@@ -65,7 +65,7 @@ TikTokやInstagramの検索結果、AI生成コンテンツ、低コスト・高
 ### 002. 一発ギャグ、バズ、芸体系への接続
 
 Path:
-reports/ja/002_ippatsu_gag_buzz_gei_system.md
+[reports/ja/002_ippatsu_gag_buzz_gei_system.md](../../reports/ja/002_ippatsu_gag_buzz_gei_system.md)
 
 用途:
 一発symbolや、接続可能性ではなく処理形式が流通する構造と接続して読むために参照する。
@@ -73,7 +73,7 @@ reports/ja/002_ippatsu_gag_buzz_gei_system.md
 ### 004. 「刺さる」と「かする」の接続構造
 
 Path:
-reports/ja/004_sasaru_kasuru_connection.md
+[reports/ja/004_sasaru_kasuru_connection.md](../../reports/ja/004_sasaru_kasuru_connection.md)
 
 用途:
 「刺さる」を短期反応ではなく、既存historyへの接続として扱う構造と接続して読むために参照する。

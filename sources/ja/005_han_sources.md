@@ -39,7 +39,7 @@ transparency、可視化、control、情報、解釈の文脈を確認するsour
 ### 001. ドラッカーのマネジメントとKPIへの圧縮
 
 Path:
-reports/ja/001_drucker_management_kpi.md
+[reports/ja/001_drucker_management_kpi.md](../../reports/ja/001_drucker_management_kpi.md)
 
 用途:
 HSS側で、問いや目的がKPI・評価制度・dashboardへ圧縮される構造と、005で扱う管理・最適化・責任の個人側ルーティングを接続して読むために参照する。
