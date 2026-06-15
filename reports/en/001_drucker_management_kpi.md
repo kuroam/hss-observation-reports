@@ -205,4 +205,4 @@ What this report observes is the connection structure in which those compressed 
 
 When compressed symbols no longer reconnect to the original questions, routing toward purpose, customer, value, and results becomes narrower, and indicators themselves begin to behave like objectives.
 
-In HSS terms, this state can be observed as capture of the objective function, loss of return movement, narrowing of layered history, and scraping away of Shiwa.
+In HSS terms, this state can be observed as capture of the objective function, loss of return movement, narrowing of layered history, and scraping away of Shiwa, the accumulated wrinkles or texture formed through layered history and repeated connection.
