@@ -1,6 +1,6 @@
 # 004. Sasaru / Kasuru Sources
 
-This source note supports `reports/ja/004_sasaru_kasuru_connection.md`.
+This source note supports [reports/en/004_sasaru_kasuru_connection.md](../../reports/en/004_sasaru_kasuru_connection.md).
 
 This note does not provide an exhaustive summary of the sources.
 

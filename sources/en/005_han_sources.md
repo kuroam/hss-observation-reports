@@ -1,6 +1,6 @@
 # 005. Han Sources
 
-This source note supports `reports/ja/005_han_self_responsibility_kpi.md`.
+This source note supports [reports/en/005_han_self_responsibility_kpi.md](../../reports/en/005_han_self_responsibility_kpi.md).
 
 This note does not provide an exhaustive summary of the sources.
 
