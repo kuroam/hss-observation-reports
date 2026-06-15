@@ -18,11 +18,11 @@ They are provisional observation reports for examining how connection structures
 
 The reports may be revised as sources, interpretations, and observation axes are updated.
 
-The Japanese reports are the canonical texts.
+This repository maintains the Japanese observation reports as the canonical texts.
 
-English translations are being added gradually.
+English translations are added and revised gradually as working translations that preserve HSS terminology and observation intent.
 
-PDF conversion and additional publication formats will be decided separately as needed.
+Derivative formats such as PDFs may be added as needed.
 
 ## Translation stance
 
@@ -40,9 +40,7 @@ For detailed translation policy and terminology notes, see:
 
 ## Reports
 
-The Japanese reports remain the canonical report texts.
-
-English report translations are added gradually after the English terminology and translation tone are stabilized.
+The table below lists the Japanese canonical reports and the available English working translations.
 
 | No. | English working title | Japanese report | English report | Observation focus |
 | --- | --- | --- | --- | --- |
