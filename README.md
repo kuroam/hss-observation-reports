@@ -32,6 +32,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 004 | 「刺さる」と「かする」の接続構造 | [reports/ja/004_sasaru_kasuru_connection.md](reports/ja/004_sasaru_kasuru_connection.md) | 「刺さる」は新しさではなく既存の積層historyへの接続である。「かする」痕跡が、文化やイノベーションの接続候補として残る構造をHSSで観測する。 |
 | 005 | 自己責任化は個人版KPIである | [reports/ja/005_han_self_responsibility_kpi.md](reports/ja/005_han_self_responsibility_kpi.md) | Hanの議論に見られる自己管理・自己最適化・自己責任化を、管理・最適化・責任が個人側へルーティングされたように見える接続状態としてHSSで観測する。 |
 | 006 | AI slopはベルトコンベア問題である | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | いわゆるAI slopを、AI生成そのものではなく、候補供給構造・再生数ビジネス・反応指標に生成AIの大量生成能力が接続された観測状態としてHSSで分解する。 |
+| 007 | 日経平均の上昇は何の積層を価格化しているのか | [reports/ja/007_nikkei_layered_value_price.md](reports/ja/007_nikkei_layered_value_price.md) | 日経平均の上昇を、日本経済全体の単純な値上がりではなく、労働者・現場・運用側に積層された価値が、企業価値・資本効率・株価・指数として価格化される構造として観測する。 |
 
 ## Source Notes
 
@@ -43,6 +44,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 004 | [sources/ja/004_sasaru_sources.md](sources/ja/004_sasaru_sources.md) |
 | 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) |
 | 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) |
+| 007 | [sources/ja/007_nikkei_sources.md](sources/ja/007_nikkei_sources.md) |
 
 ## レポート間の接続
 
@@ -51,6 +53,10 @@ PDFなどの派生形式は、必要に応じて追加します。
 - 001 → 005: 組織側のKPI圧縮と、個人側への管理・最適化・責任ルーティング
 - 002 → 004 → 006: 一発symbol、刺さる/かする、低接続symbolと再生数ビジネス
 - 003 → 004: 未固定の接続候補、かすって残る痕跡、伝票のまま残る処理形式
+- 001 → 007: KPI / dashboard としての指数symbol
+- 003 → 007: 未固定・未可視の価値が処理形式へ変換される構造
+- 004 → 007: 日経平均上昇が日本再評価・失われた30年後の積層historyへ接続する構造
+- 005 → 007: 労働者・現場・運用側に積層された処理負荷と価格化される数字のズレ
 
 これらの接続は、各レポートの結論を固定するものではなく、HSSを仮の観測軸として用いたときに見える接続関係のメモです。
 
