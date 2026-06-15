@@ -1,6 +1,6 @@
 # 006. AI Slop Sources
 
-このソースメモは、`reports/ja/006_ai_slop_conveyor_belt.md` を支えるためのものです。
+このソースメモは、[reports/ja/006_ai_slop_conveyor_belt.md](../../reports/ja/006_ai_slop_conveyor_belt.md) を支えるためのものです。
 
 このソースメモは、各ソースの内容を網羅的に要約するものではなく、観測レポートで使う前提文脈の足場を示すためのものです。
 
