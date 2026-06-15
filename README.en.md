@@ -59,7 +59,7 @@ The table below lists the Japanese canonical reports and the available English w
 | 002 | [sources/ja/002_ippatsu_gag_sources.md](sources/ja/002_ippatsu_gag_sources.md) | [sources/en/002_ippatsu_gag_sources.md](sources/en/002_ippatsu_gag_sources.md) |
 | 003 | [sources/ja/003_innovation_sources.md](sources/ja/003_innovation_sources.md) | [sources/en/003_innovation_sources.md](sources/en/003_innovation_sources.md) |
 | 004 | [sources/ja/004_sasaru_sources.md](sources/ja/004_sasaru_sources.md) | [sources/en/004_sasaru_sources.md](sources/en/004_sasaru_sources.md) |
-| 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) | Planned |
+| 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) | [sources/en/005_han_sources.md](sources/en/005_han_sources.md) |
 | 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) | Planned |
 
 ## Connections Between Reports
