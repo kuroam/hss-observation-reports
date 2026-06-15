@@ -157,7 +157,7 @@ Processing forms used inside organizations include questions such as the followi
 - Which department’s work is it?
 - Which result should it be reported as?
 
-![Pin and invoice bundle](../../assets/ja/003_invoice_bundle_pin.png)
+![Pin and invoice bundle](../../assets/en/003_invoice_bundle_pin_en.png)
 
 What HSS observes is not which is correct, the pin or the invoice.
 
