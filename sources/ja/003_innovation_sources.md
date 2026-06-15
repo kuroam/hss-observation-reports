@@ -1,6 +1,6 @@
 # 003. Innovation / Business Process Sources
 
-このソースメモは、`reports/ja/003_innovation_invoice_bundle.md` を支えるためのものです。
+このソースメモは、[reports/ja/003_innovation_invoice_bundle.md](../../reports/ja/003_innovation_invoice_bundle.md) を支えるためのものです。
 
 このソースメモは、各ソースの内容を網羅的に要約するものではなく、観測レポートで使う前提文脈の足場を示すためのものです。
 

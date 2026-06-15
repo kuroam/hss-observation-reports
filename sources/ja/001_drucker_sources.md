@@ -1,6 +1,6 @@
 # 001. Drucker Management Sources
 
-このソースメモは、`reports/ja/001_drucker_management_kpi.md` を支えるためのものです。
+このソースメモは、[reports/ja/001_drucker_management_kpi.md](../../reports/ja/001_drucker_management_kpi.md) を支えるためのものです。
 
 このソースメモは、各ソースの内容を網羅的に要約するものではなく、観測レポートで使う前提文脈の足場を示すためのものです。
 

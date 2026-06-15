@@ -1,6 +1,6 @@
 # 002. 一発ギャグ、バズ、芸体系への接続 ソースメモ
 
-このソースメモは、`reports/ja/002_ippatsu_gag_buzz_gei_system.md` を支えるためのものです。
+このソースメモは、[reports/ja/002_ippatsu_gag_buzz_gei_system.md](../../reports/ja/002_ippatsu_gag_buzz_gei_system.md) を支えるためのものです。
 
 このソースメモは、各ソースの内容を網羅的に要約するものではなく、観測レポートで使う前提文脈の足場を示すためのものです。
 

@@ -1,6 +1,6 @@
 # 007. 日経平均・企業価値・労働側積層 Sources
 
-このソースメモは、reports/ja/007_nikkei_layered_value_price.md を支えるためのものです。
+このソースメモは、[reports/ja/007_nikkei_layered_value_price.md](../../reports/ja/007_nikkei_layered_value_price.md) を支えるためのものです。
 
 このソースメモは、各ソースの内容を網羅的に要約するものではありません。
 
