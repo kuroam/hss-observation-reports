@@ -77,6 +77,7 @@ Use the following working translations consistently.
 | 再接続            | reconnection                   | Core HSS term.                                                         |
 | 再展開            | re-expansion                   | Working translation.                                                   |
 | 積層history      | layered history                | Keep “history” rather than replacing it with memory.                   |
+| シワ | Shiwa | Keep as a Japanese HSS term. It refers to accumulated wrinkles, traces, or texture formed through layered history and repeated connection. |
 | 固定化            | fixation                       | Use carefully; not psychological fixation.                             |
 | 固定化symbol      | fixed symbol                   | Keep symbol as-is.                                                     |
 | Blue residuals | Blue residuals                 | Keep as-is.                                                            |
