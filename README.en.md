@@ -40,16 +40,16 @@ For detailed translation policy and terminology notes, see:
 
 At this stage, the Japanese reports are the canonical report texts.
 
-English report translations will be added separately after the English terminology and translation tone are stabilized.
+English report translations are being added gradually after the English terminology and translation tone are stabilized.
 
-| No. | English working title | Japanese report | Observation focus |
-| --- | --- | --- | --- |
-| 001 | Drucker, Management, and Compression into KPIs | [reports/ja/001_drucker_management_kpi.md](reports/ja/001_drucker_management_kpi.md) | Observes whether Drucker-like questions return from KPI and evaluation formats, or become compressed into them. |
-| 002 | One-Shot Gags, Buzz, and Connection to Performance Systems | [reports/ja/002_ippatsu_gag_buzz_gei_system.md](reports/ja/002_ippatsu_gag_buzz_gei_system.md) | Observes the difference between a strong symbol connecting to a performance system and ending as short-cycle buzz. |
-| 003 | Why Innovation Stops as an Invoice Bundle | [reports/ja/003_innovation_invoice_bundle.md](reports/ja/003_innovation_invoice_bundle.md) | Observes how new connection candidates are compressed into existing approval, budget, and evaluation formats. |
-| 004 | The Connection Structure of “Sasaru” and “Kasuru” | [reports/ja/004_sasaru_kasuru_connection.md](reports/ja/004_sasaru_kasuru_connection.md) | Observes sasaru as connection to existing layered history, and kasuru as a trace that remains as a possible connection candidate. |
-| 005 | Self-Responsibilization as a Personal KPI | [reports/ja/005_han_self_responsibility_kpi.md](reports/ja/005_han_self_responsibility_kpi.md) | Observes Han-related self-management, self-optimization, and self-responsibilization as management, optimization, and responsibility routed toward the individual side. |
-| 006 | AI Slop as a Conveyor-Belt Problem | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | Observes AI slop not as an AI-generation problem itself, but as a state where massive generation capability connects to candidate-supply structures, view-count business, and reaction metrics. |
+| No. | English working title | Japanese report | English report | Observation focus |
+| --- | --- | --- | --- | --- |
+| 001 | Drucker, Management, and Compression into KPIs | [reports/ja/001_drucker_management_kpi.md](reports/ja/001_drucker_management_kpi.md) | [reports/en/001_drucker_management_kpi.md](reports/en/001_drucker_management_kpi.md) | Observes whether Drucker-like questions return from KPI and evaluation formats, or become compressed into them. |
+| 002 | One-Shot Gags, Buzz, and Connection to Performance Systems | [reports/ja/002_ippatsu_gag_buzz_gei_system.md](reports/ja/002_ippatsu_gag_buzz_gei_system.md) | Planned | Observes the difference between a strong symbol connecting to a performance system and ending as short-cycle buzz. |
+| 003 | Why Innovation Stops as an Invoice Bundle | [reports/ja/003_innovation_invoice_bundle.md](reports/ja/003_innovation_invoice_bundle.md) | Planned | Observes how new connection candidates are compressed into existing approval, budget, and evaluation formats. |
+| 004 | The Connection Structure of “Sasaru” and “Kasuru” | [reports/ja/004_sasaru_kasuru_connection.md](reports/ja/004_sasaru_kasuru_connection.md) | Planned | Observes sasaru as connection to existing layered history, and kasuru as a trace that remains as a possible connection candidate. |
+| 005 | Self-Responsibilization as a Personal KPI | [reports/ja/005_han_self_responsibility_kpi.md](reports/ja/005_han_self_responsibility_kpi.md) | Planned | Observes Han-related self-management, self-optimization, and self-responsibilization as management, optimization, and responsibility routed toward the individual side. |
+| 006 | AI Slop as a Conveyor-Belt Problem | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | Planned | Observes AI slop not as an AI-generation problem itself, but as a state where massive generation capability connects to candidate-supply structures, view-count business, and reaction metrics. |
 
 ## Source Notes
 
