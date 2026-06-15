@@ -76,7 +76,7 @@ They are notes on connection relationships that become visible when HSS is used 
 
 ## Rights and License
 
-Copyright (c) 2026 kuro amak.
+Copyright (c) 2026 kuroam.
 
 All rights reserved unless otherwise stated.
 
