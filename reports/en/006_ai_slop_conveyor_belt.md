@@ -6,7 +6,7 @@
 
 The term AI slop is generally used to refer to low-quality digital content mass-produced by generative AI.
 
-However, the term still does not have one stable, single definition.
+However, the term still does not have a single settled definition.
 
 In external source anchors, low quality, high quantity, AI generation, low effort, lack of meaning or quality, the attention economy, advertising revenue, and mass circulation on platforms appear as elements used to explain AI slop.
 
@@ -21,30 +21,41 @@ In HSS, AI slop is treated as a state observed when massive generation capabilit
 This report refers to the following external sources as source anchors.
 
 - Merriam-Webster Word of the Year 2025: Slop
-https://www.merriam-webster.com/wordplay/word-of-the-year
-Use: to confirm meanings around low quality, AI, and quantity.
+
+  - https://www.merriam-webster.com/wordplay/word-of-the-year
+  - Use: to confirm meanings around low quality, AI, and quantity.
+
 - AI slop - Wikipedia
-https://en.wikipedia.org/wiki/AI_slop
-Use: to confirm contexts around low-quality AI-generated digital content, lacking effort, quality, or meaning, high volume, clickbait, the attention economy, monetization, the creator economy, social media, and online advertising.
+
+  - https://en.wikipedia.org/wiki/AI_slop
+  - Use: to confirm contexts around low-quality AI-generated digital content, lacking effort, quality, or meaning, high volume, clickbait, the attention economy, monetization, the creator economy, social media, and online advertising.
+
 - Spam, junk … slop? The latest wave of AI behind the “zombie internet” - The Guardian
-https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet
-Use: to confirm contexts around spam, junk, slop, AI-generated web clutter, advertising revenue, and search traffic.
+
+  - https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet
+  - Use: to confirm contexts around spam, junk, slop, AI-generated web clutter, advertising revenue, and search traffic.
+
 - Measuring AI “Slop” in Text - arXiv
-https://arxiv.org/abs/2509.19163
-Use: to confirm the instability of agreed definitions or measurement methods for AI slop, and the subjectivity of slop judgments.
+
+  - https://arxiv.org/abs/2509.19163
+  - Use: to confirm the instability of agreed definitions or measurement methods for AI slop, and the subjectivity of slop judgments.
+
 - Why Slop Matters - arXiv
-https://arxiv.org/abs/2601.06060
-Use: to confirm contexts around superficial competence, asymmetry of effort, mass producibility, and the digital ecosystem of generation and consumption.
+
+  - https://arxiv.org/abs/2601.06060
+  - Use: to confirm contexts around superficial competence, asymmetry of effort, mass producibility, and the digital ecosystem of generation and consumption.
+
 - AI-Generated Algorithmic Virality - arXiv
-https://arxiv.org/abs/2508.01042
-Use: to confirm contexts around AI-generated content in TikTok and Instagram search results, low cost, fast production speed, gaming the algorithm, and scale production.
+
+  - https://arxiv.org/abs/2508.01042
+  - Use: to confirm contexts around AI-generated content in TikTok and Instagram search results, low cost, fast production speed, gaming the algorithm, and scale production.
 
 From external definitions and media usage, at least the following elements overlap in AI slop.
 
 - It is strongly related to AI generation or generative AI.
 - It is regarded as low quality, low effort, or low meaning.
 - It is generated and circulated in large quantities.
-- It connects to platforms, feeds, search, SNS, advertising revenue, view counts, clicks, and reaction metrics.
+- It connects to platforms, feeds, search, social media, advertising revenue, view counts, clicks, and reaction metrics.
 - It may take forms resembling human creative works or information content while having weak connection possibility or weak reconnectability.
 
 HSS does not evaluate these collectively as “AI generation is the cause.”
@@ -287,7 +298,7 @@ This report connects those two observations by treating short videos as a struct
 | Observed object | State visible through HSS | Connection destination |
 | --- | --- | --- |
 | Generative AI | Amplification of symbol supply capability | Low-cost generation, massive generation |
-| AI slop | Mass circulation of low-connection symbols | Feeds, search, SNS, advertising revenue |
+| AI slop | Mass circulation of low-connection symbols | Feeds, search, social media, advertising revenue |
 | Platform / feed | Generation and presentation of candidate sequences | Recommendation, ranking, autoplay |
 | Candidate sequence | Supplied row of candidates | Selection, reaction metrics, receiver-side processing |
 | View count | Numericization of passage traces | Proxy indicator of value, ad inventory, monetization potential |

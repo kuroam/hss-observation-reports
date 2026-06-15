@@ -12,7 +12,7 @@ The sources listed here are used to confirm the circulated image of â€œAI slopâ€
 
 They are not HSS foundations and are not used as HSS evidence.
 
-They are also not used to present one settled definition of AI slop.
+They are also not used to present a single settled definition of AI slop.
 
 ## AI slop definition and usage source anchors
 
@@ -86,7 +86,7 @@ Used as an internal HSS connection for reading `sasaru` not as short-term reacti
 
 ## HSS-side use
 
-In Report 006, HSS does not provide one settled definition of AI slop.
+In Report 006, HSS does not provide a single settled definition of AI slop.
 
 It also does not evaluate AI, generative AI, platforms, consumers, or view-count business as simply good or bad.
 
