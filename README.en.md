@@ -18,9 +18,11 @@ They are provisional observation reports for examining how connection structures
 
 The reports may be revised as sources, interpretations, and observation axes are updated.
 
-This repository is maintained as private during its early stage.
+The Japanese reports are the canonical texts.
 
-Publication, English translation, and PDF conversion will be decided separately.
+English translations are being added gradually.
+
+PDF conversion and additional publication formats will be decided separately as needed.
 
 ## Translation stance
 
@@ -38,9 +40,9 @@ For detailed translation policy and terminology notes, see:
 
 ## Reports
 
-At this stage, the Japanese reports are the canonical report texts.
+The Japanese reports remain the canonical report texts.
 
-English report translations are being added gradually after the English terminology and translation tone are stabilized.
+English report translations are added gradually after the English terminology and translation tone are stabilized.
 
 | No. | English working title | Japanese report | English report | Observation focus |
 | --- | --- | --- | --- | --- |
@@ -73,6 +75,16 @@ The initial report group should be read not only as separate cases, but also as 
 These connections do not fix the conclusions of the reports.
 
 They are notes on connection relationships that become visible when HSS is used as a tentative observation axis.
+
+## Rights and License
+
+Copyright (c) 2026 kuro amak.
+
+All rights reserved unless otherwise stated.
+
+This repository is published for reading and reference.
+
+No permission is granted to copy, redistribute, modify, translate, or create derivative works from its contents without explicit permission.
 
 ## Notes
 
