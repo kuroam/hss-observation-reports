@@ -4,21 +4,20 @@
 
 ## 0. How this report handles the topic
 
-This report does not evaluate Minecraft as a game.
-It does not prove Minecraft’s educational effects, analyze its sales or spread, or rank Minecraft above other sandbox games or open-world games.
-It also does not claim that Minecraft invented block play, crafting, sandbox design, or world editing.
+This report observes Minecraft as a game-internal connection OS that made the world readable, writable, and playable through blocks as common visible units.
 
-This report observes Minecraft as a game-internal connection OS that made the world “readable, writable, and playable” through blocks as common visible units.
+It is not an evaluation of Minecraft as a game, a proof of its educational effects, a sales or spread analysis, or a ranking against other sandbox or open-world games.
+It also does not claim that Minecraft invented block play, crafting, sandbox design, or world editing.
 
 Here, “common language” does not mean a natural language such as English or Japanese.
 It refers to blocks as visible units that many people can roughly understand when they see them, without depending strongly on language, age, or game experience.
 
 This report does not handle the whole of what makes Minecraft interesting.
-It handles the connection structure in which the unit for reading the world, breaking the world, placing the world, making the world, explaining the world, imitating the world, and playing with the world is aligned around blocks.
+It handles the connection structure in which the unit for reading, breaking, placing, building, explaining, imitating, and playing with the world is aligned around blocks.
 
-## 1. Averaged image available from external sources
+## 1. Typical picture from external sources
 
-The averaged image available from external sources can be organized as follows.
+The typical external picture can be organized as follows.
 
 - Minecraft provides game modes such as Survival, Creative, and Adventure that connect to different ways of playing.
 - Creative mode strongly foregrounds placement, destruction, and making with blocks as a mode suited to building and prototyping.
@@ -28,9 +27,9 @@ The averaged image available from external sources can be organized as follows.
 These source anchors are not foundations for proving HSS.
 They are treated as auxiliary lines for checking how Minecraft tends to be explained externally, and what kinds of connection destinations are described through game modes, Redstone, and education / making contexts.
 
-## 2. Points not fully decomposed by the averaged explanation
+## 2. Points not fully decomposed by common explanations
 
-Averaged explanations of Minecraft often say the following.
+Common explanations of Minecraft often say the following.
 
 - Minecraft has a high degree of freedom.
 - Minecraft is a sandbox game.
@@ -79,7 +78,7 @@ return to the world
 others read / imitate / modify / share
 
 Minecraft does not only make players choose options inside a completed world.
-Players break, hold, place, make, and return the world again through units close to the units by which they read the world.
+Players can break the world into blocks, hold those blocks as materials, place them elsewhere, and rebuild through the same units they use to read the world.
 
 ## 4. The readable unit and writable unit are the same
 
@@ -91,7 +90,7 @@ In Minecraft, the unit for reading the world and the unit for rewriting the worl
 - Visible unit: block
 - Breakable unit: block
 - Placeable unit: block
-- Makeable unit: block
+- Building unit: block
 - Explainable unit: block
 - Imitable unit: block
 - Playable unit: block
@@ -99,7 +98,7 @@ In Minecraft, the unit for reading the world and the unit for rewriting the worl
 Because of this alignment, players do not only read a completed world; they can rewrite the world in the same unit.
 
 A block is a visual form on the screen and, at the same time, an operation target, a material, a placement unit, and an explanatory unit for sharing.
-For this reason, in Minecraft, connections such as “break what one sees,” “hold what one broke,” “place what one holds,” and “others read what was placed” turn back on the same visible unit.
+For this reason, in Minecraft, connections such as “break what one sees,” “hold what one broke,” “place what one holds,” and “others read what was placed” all loop back through the same visible unit.
 
 Because this structure exists, Minecraft’s freedom appears not merely as a large number of choices, but as freedom to rewrite the world in the unit by which the world was read.
 
@@ -142,7 +141,7 @@ For example, a player who played around 2012 and a younger relative who newly be
 This is not treated as statistical evidence; it is an observation clue.
 
 This reconnection is not merely nostalgia.
-It means that, through common visible units where the readable unit and writable unit are close, room remains for players from another generation to enter the world again.
+This means that players from another generation still have a way back into the world through common visible units whose readable and writable forms stay close.
 
 ## 7. L1–L3 observation points
 
