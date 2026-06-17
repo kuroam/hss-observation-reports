@@ -59,6 +59,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 005 | 自己責任化は個人版KPIである | [reports/ja/005_han_self_responsibility_kpi.md](reports/ja/005_han_self_responsibility_kpi.md) | Hanの議論に見られる自己管理・自己最適化・自己責任化を、管理・最適化・責任が個人側へルーティングされたように見える接続状態としてHSSで観測する。 |
 | 006 | AI slopはベルトコンベア問題である | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | いわゆるAI slopを、AI生成そのものではなく、候補供給構造・再生数ビジネス・反応指標に生成AIの大量生成能力が接続された観測状態としてHSSで分解する。 |
 | 007 | 日経平均の上昇は何の積層を価格化しているのか | [reports/ja/007_nikkei_layered_value_price.md](reports/ja/007_nikkei_layered_value_price.md) | 日経平均の上昇を、日本経済全体の単純な値上がりではなく、労働者・現場・運用側に積層された価値が、企業価値・資本効率・株価・指数として価格化される構造として観測する。 |
+| 008 | Minecraftはなぜブロックを「読めて書けて遊べる」共通言語にしたのか | [reports/ja/008_minecraft_block_common_language.md](reports/ja/008_minecraft_block_common_language.md) | Minecraftを、自由度の高いゲームとしてではなく、ブロックという共通可視単位によって、世界を読む・書く・壊す・作る・共有するための接続OSとしてHSSで観測する。 |
 
 ## Source Notes
 
@@ -71,6 +72,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) |
 | 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) |
 | 007 | [sources/ja/007_nikkei_sources.md](sources/ja/007_nikkei_sources.md) |
+| 008 | [sources/ja/008_minecraft_sources.md](sources/ja/008_minecraft_sources.md) |
 
 ## レポート間の接続
 
@@ -83,6 +85,9 @@ PDFなどの派生形式は、必要に応じて追加します。
 - 003 → 007: 未固定・未可視の価値が処理形式へ変換される構造
 - 004 → 007: 日経平均上昇が日本再評価・失われた30年後の積層historyへ接続する構造
 - 005 → 007: 労働者・現場・運用側に積層された処理負荷と価格化される数字のズレ
+- 004 → 008: 低固定symbolに残るBlue residualsと再接続可能領域
+- 006 → 008: platform側で処理される低接続symbolと、プレイヤー側の制作へ戻る低固定symbolの対比
+- 003 → 008: 未固定の接続候補が既存の処理形式へ圧縮されず、プレイヤー側の構築へ戻る構造
 
 これらの接続は、各レポートの結論を固定するものではなく、HSSを仮の観測軸として用いたときに見える接続関係のメモです。
 
