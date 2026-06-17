@@ -95,6 +95,23 @@ In Minecraft, the unit for reading the world and the unit for rewriting the worl
 - Imitable unit: block
 - Playable unit: block
 
+This alignment can be shown as follows.
+
+```mermaid
+flowchart TB
+    B[Block<br/>common visible unit]
+
+    B --> V[Visible unit]
+    B --> R[Readable unit]
+    B --> M[Mine / break unit]
+    B --> H[Held material]
+    B --> P[Placeable unit]
+    B --> C[Building unit]
+    B --> E[Explainable unit]
+    B --> I[Imitable unit]
+    B --> S[Playable unit]
+```
+
 Because of this alignment, players do not only read a completed world; they can rewrite the world in the same unit.
 
 A block is a visual form on the screen and, at the same time, an operation target, a material, a placement unit, and an explanatory unit for sharing.
