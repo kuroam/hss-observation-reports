@@ -189,8 +189,21 @@ Use working English titles for now.
 | 004 | 「刺さる」と「かする」の接続構造     | The Connection Structure of “Sasaru” and “Kasuru”          |
 | 005 | 自己責任化は個人版KPIである      | Self-Responsibilization as a Personal KPI                  |
 | 006 | AI slopはベルトコンベア問題である | AI Slop as a Conveyor-Belt Problem                         |
+| 007 | 日経平均の上昇は何の積層を価格化しているのか | What Layering Is the Nikkei 225 Rise Pricing?              |
 
 These titles may be revised after translating the full reports.
+
+### Report 007 terms
+
+Use these concise working terms without turning the policy into economic analysis.
+
+| Japanese | English working translation |
+| --- | --- |
+| 日経平均 | Nikkei 225 |
+| 指数symbol | index symbol |
+| 価格化 | pricing / priced value, depending on context |
+| 労働側の積層 | labor-side layering |
+| 再接続が細る | reconnection routes narrow |
 
 ## 7. Tone rules
 
@@ -228,4 +241,4 @@ Recommended order:
 2. English source note for Report 001.
 3. English Report 001.
 4. Review tone and terminology.
-5. Translate Reports 002–006 only after Report 001 establishes the pattern.
+5. Translate later reports only after Report 001 establishes the pattern; update this policy as new reports are added.

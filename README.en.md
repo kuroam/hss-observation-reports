@@ -24,6 +24,32 @@ English translations are added and revised gradually as working translations tha
 
 Derivative formats such as PDFs may be added as needed.
 
+## Suggested Reading Order
+
+For first-time readers, it is usually easiest to read README first, then Reports 001, 003, 004, 006, and 007. This order makes it easier to follow compression into processing forms, unfixed connection candidates, traces and reconnectable areas, platform-like candidate supply, and pricing into an index symbol.
+
+Reports 002 and 005 can be read as supporting observations on high-speed symbol circulation and individual-side routing of management, optimization, and responsibility.
+
+## How Observation Results Are Handled
+
+Observation results in this repository are not treated as success or failure of HSS. They are treated as connection-confirmation states.
+
+Examples:
+- connection confirmed
+- connection unconfirmed
+- wrong connection destination
+- absorption into a processing form
+- insufficient traces
+- insufficient information
+- out-of-scope layer
+- Blue residuals present
+- reconnectable area present
+- fixation tendency present
+- synchronization pressure present
+- objective-function capture present
+
+Not every state needs to appear in every report. Each report records only what can be observed.
+
 ## Translation stance
 
 The English version is not a strict word-for-word translation.
@@ -71,6 +97,10 @@ The initial report group should be read not only as separate cases, but also as 
 - 001 → 005: Organizational compression into KPI formats, and individual-side routing of management, optimization, and responsibility.
 - 002 → 004 → 006: One-shot symbols, sasaru/kasuru, low-connection symbols, and view-count business.
 - 003 → 004: Unfixed connection candidates, traces that remain after only touching the edge of a reconnectable area, and processing forms that remain as invoice bundles.
+- 001 → 007: Index symbols such as the Nikkei 225 as KPI / dashboard-like processing forms.
+- 003 → 007: Unfixed or less-visible value converted into market-processable forms.
+- 004 → 007: Nikkei 225 rise reconnecting to layered histories such as post-bubble Japan, the lost decades, post-deflation Japan, and Japan revaluation.
+- 005 → 007: Processing load layered in workers, workplaces, and operations, and the gap between priced numbers and the layering source.
 
 These connections do not fix the conclusions of the reports.
 

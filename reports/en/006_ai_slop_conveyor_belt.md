@@ -359,6 +359,28 @@ Generative AI is not only something that mass-supplies low-connection symbols to
 
 When an individual generates, edits, and selects according to their own use, context, memory, and preferences, the same generation capability may be used toward editing the person’s own reconnectable area.
 
+## L1–L3 Observation Points
+
+- L1 contact layer:
+  AI-generated content, thumbnails, videos, music, posts, search results, and recommendation candidates come into contact with users.
+- L2 reaction / trace layer:
+  Watching, skipping, saving, unease, frustration, low connection feeling, reactions, clicks, and dwell time remain as traces.
+- L3 processing / routing layer:
+  These traces are processed into feeds, recommendations, rankings, view counts, clicks, dwell time, advertising revenue, playlists, and search ranking.
+
+## Connection-Confirmation States
+
+- Connection confirmed:
+  AI slop can be treated not as AI generation itself, but as an observed state where generation capability connects to platforms, feeds, recommendations, view counts, advertising revenue, and reaction metrics.
+- Absorption into processing forms:
+  The connection possibility of symbols is easily absorbed into processing forms such as view counts, clicks, dwell time, saves, and reaction counts.
+- Blue residuals / reconnectable area:
+  Even when low-connection symbols circulate in large quantities, unease, frustration, saves, revisits, and reinterpretation in another context can remain as a reconnectable area.
+- Possible lack of feedback correction / possible return-route loss:
+  Even when reaction metrics are circulating, if routes back to connection depth, layered history, and reconnection possibility are difficult to see, this can be observed as possible return-route loss.
+- Insufficient information / pending:
+  Individual content, platforms, and user reactions are not determined by this report alone.
+
 ## 11. What this report does not determine
 
 This report does not determine the following.

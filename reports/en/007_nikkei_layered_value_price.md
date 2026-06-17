@@ -241,6 +241,30 @@ Even when a stock-price rise appears as capital-efficiency improvement, long-ter
 
 Even if stock prices or indexes rise, if they do not reconnect to wages, investment, staffing, skill succession, and workplace improvement, the felt sense of being valued has difficulty returning to the layering source.
 
+## L1–L3 Observation Points
+
+- L1 contact layer:
+  The Nikkei 225, stock prices, TOPIX, news, index summaries, wage statistics, and living experience come into contact with investors, companies, workers, readers, and social contexts.
+- L2 reaction / trace layer:
+  Japan revaluation, review after the lost decades, gaps with real wages, unease in living experience, workplace-side processing load, and the gap between what is valued and where numbers rise remain as traces.
+- L3 processing / routing layer:
+  These are routed into processing forms such as the Nikkei 225, TOPIX, PBR, ROE, capital efficiency, shareholder returns, index contribution, fund flows, stock prices, and corporate-value evaluation.
+
+## Connection-Confirmation States
+
+- Connection confirmed:
+  The Nikkei 225 can be observed not as the whole Japanese economy itself, but as an index symbol / dashboard-like processing form into which corporate value, expectations, capital efficiency, index contribution, and fund flows are compressed.
+- Absorption into processing forms:
+  Value layered inside companies is easily converted into market-processable forms such as PBR, ROE, capital efficiency, shareholder returns, stock prices, and the Nikkei 225.
+- Reconnectable area:
+  Whether priced value returns to wages, investment, staffing, skill succession, workplace improvement, operational improvement, and living experience remains a point for continued observation.
+- Blue residuals present:
+  Even when numbers rise, the gap between what is valued and where numbers rise remains as unease or an uncollected question.
+- Insufficient information / pending:
+  This report alone does not determine how much value layered in workers, workplaces, and operations contributed to corporate value or index rises.
+- Out of scope:
+  Stock-price prediction, investment decisions, evaluation of individual companies, policy evaluation, and judgments about whether workers or managers are good or bad are not handled.
+
 ## 12. What this report does not determine
 
 - Future rises or declines in the Nikkei 225, TOPIX, exchange rates, or individual stocks.
