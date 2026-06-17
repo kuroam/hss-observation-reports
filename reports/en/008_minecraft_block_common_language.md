@@ -125,7 +125,7 @@ Depending on context, the same block can return to connection destinations such 
 - shared building
 - educational material
 
-Blocks remain as low-fixed symbols whose meanings are not fully fixed.
+Blocks remain as low-fixed symbols — units whose meanings stay open.
 For that reason, they can return to different connection destinations for different players.
 
 However, this does not mean that Blue residuals are always good.
