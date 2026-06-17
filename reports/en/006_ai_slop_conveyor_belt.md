@@ -177,6 +177,16 @@ Even low-connection symbols can be processed as view counts, clicks, dwell time,
 
 In other words, AI slop becomes easier to occur where conveyor-belt candidate-supply structures connect with view-count business.
 
+### Compression into play counts as a processing form
+
+Play counts and view counts do not directly represent the depth of connection to a work.
+
+A single song listened to repeatedly and many songs touched once can leave very different traces on the human side. The former may leave memory, attachment, reasons for return, entry into daily life, or an ongoing relationship with the creator. The latter may be closer to contact, passing-through, background consumption, list consumption, or recommendation processing.
+
+On platforms, however, both first enter processing forms as play events, view events, display events, engagement counts, or time-spent signals. These processing forms do not fully decompose the depth of connection, how the work remains in memory, why it is revisited, or whether an ongoing relationship is formed.
+
+For that reason, even low-connection output can appear to function in the processing layer if it can be circulated at scale and converted into play counts, view counts, display counts, or time-spent signals. When AI lowers production friction, this kind of mass input becomes easier. AI use itself is not treated as slop here. AI slop is treated not as AI generation itself, but as something that becomes easier to observe when low-connection mass output is fed into such processing forms.
+
 ## 5. What generative AI amplifies
 
 Generative AI is not the conveyor belt itself.
@@ -301,7 +311,7 @@ This report connects those two observations by treating short videos as a struct
 | AI slop | Mass circulation of low-connection symbols | Feeds, search, social media, advertising revenue |
 | Platform / feed | Generation and presentation of candidate sequences | Recommendation, ranking, autoplay |
 | Candidate sequence | Supplied row of candidates | Selection, reaction metrics, receiver-side processing |
-| View count | Numericization of passage traces | Proxy indicator of value, ad inventory, monetization potential |
+| Play counts / view counts | Processing forms that compress connection depth into play events or view events | Proxy indicator of value, ad inventory, monetization potential |
 | Click | Processing symbol of contact | Candidate supply, reaction metrics |
 | Dwell time | Processing symbol of attention | Recommendation, evaluation, monetization |
 | Reaction metrics | Numericized reactions such as likes, saves, shares, and reaction counts | Next candidate supply, view-count business |
@@ -373,7 +383,7 @@ When an individual generates, edits, and selects according to their own use, con
 - Connection confirmed:
   AI slop can be treated not as AI generation itself, but as an observed state where generation capability connects to platforms, feeds, recommendations, view counts, advertising revenue, and reaction metrics.
 - Absorption into processing forms:
-  The connection possibility of symbols is easily absorbed into processing forms such as view counts, clicks, dwell time, saves, and reaction counts.
+  The connection possibility of symbols is easily absorbed into processing forms such as view counts, clicks, dwell time, saves, and reaction counts. Deep revisits and shallow contacts may be processed as the same play counts, view counts, or time-spent signals.
 - Blue residuals / reconnectable area:
   Even when low-connection symbols circulate in large quantities, unease, frustration, saves, revisits, and reinterpretation in another context can remain as a reconnectable area.
 - Possible lack of feedback correction / possible return-route loss:
