@@ -83,7 +83,7 @@ This structure existed before AI-generated content flowed into it.
 
 AI-generated content did not create the conveyor belt.
 
-Generative AI is handled in later sections as something that amplifies the amount and speed of symbols that can be poured into this existing candidate-supply structure.
+Generative AI is taken up in later sections as an amplifier of the amount and speed of symbols poured into this existing candidate-supply structure.
 
 ## 4. Difference between TV-style and modern feed-style supply
 
@@ -244,7 +244,7 @@ AI slop becomes easier to problematize when one-shot symbols optimized as advert
 
 Report 002 handled one-shot symbols and cases where processing forms circulate instead of connection possibility.
 
-Report 004 handled “sasaru” not as short-term reaction, but as connection to existing history.
+Report 004 handled “sasaru” (a deep “hits home” connection) not as short-term reaction, but as connection to existing history.
 
 This report connects those two by treating short videos as a structure that can be either one-shot symbols or entrances for reconnection.
 
@@ -322,8 +322,8 @@ When individuals generate, edit, and select according to their own uses, context
   The connection possibility of symbols is easily absorbed into processing forms such as view counts, clicks, dwell time, saves, and reaction counts. Deep revisits and shallow contacts may be processed as the same play counts, view counts, or time-spent signals.
 - Blue residuals / reconnectable area:
   Even when low-connection symbols circulate in large quantities, unease, frustration, saves, revisits, reinterpretation in another context, and similar traces can be observed as reconnectable areas.
-- Possibility of swing-back deficit:
-  Even when reaction metrics are circulating, if routes back to connection depth, layered history, and reconnection possibility are hard to see, this can be observed as a possibility of swing-back deficit.
+- Possibility of feedback deficit:
+  Even when reaction metrics are circulating, if routes back to connection depth, layered history, and reconnection possibility are hard to see, this can be observed as a possibility of feedback deficit.
 - Information shortage / pending:
   Individual content, platforms, and user reactions are not determined by this report alone.
 
@@ -360,10 +360,10 @@ This report does not handle the following.
 - AI-Generated Algorithmic Virality - arXiv
   - https://arxiv.org/abs/2508.01042
   - Confirms contexts around TikTok and Instagram search results, AI-generated content, low-cost and high-speed generation, and algorithmic virality.
-- 002. 一発ギャグ、バズ、芸体系への接続
+- 002. One-shot Gags, Buzz, and Connection to Performance Systems (Japanese report)
   - [002_ippatsu_gag_buzz_gei_system.md](002_ippatsu_gag_buzz_gei_system.md)
   - Referenced to connect with one-shot symbols and structures in which processing forms circulate instead of connection possibility.
-- 004. 「刺さる」と「かする」の接続構造
+- 004. The Connection Structure of “Sasaru” and “Kasuru” (Japanese report)
   - [004_sasaru_kasuru_connection.md](004_sasaru_kasuru_connection.md)
   - Referenced to connect with the structure that treats “sasaru” not as short-term reaction, but as connection to existing history.
 
