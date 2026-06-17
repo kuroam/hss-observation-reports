@@ -103,6 +103,9 @@ The initial report group should be read not only as separate cases, but also as 
 - 003 → 007: Unfixed or less-visible value converted into market-processable forms.
 - 004 → 007: Nikkei 225 rise reconnecting to layered histories such as post-bubble Japan, the lost decades, post-deflation Japan, and Japan revaluation.
 - 005 → 007: Processing load layered in workers, workplaces, and operations, and the gap between priced numbers and the layering source.
+- 004 → 008: Blue residuals and reconnectable areas visible in low-fixed symbols.
+- 006 → 008: A contrast between low-connection symbols processed by platforms and low-fixed symbols that reconnect to player-side creation.
+- 003 → 008: Unfixed connection candidates not compressed into existing processing forms, but returned to player-side construction.
 
 These connections do not fix the conclusions of the reports.
 
