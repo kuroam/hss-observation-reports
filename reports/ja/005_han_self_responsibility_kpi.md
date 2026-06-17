@@ -2,6 +2,10 @@
 
 ## HSSモデルによる観測レポート
 
+> このレポートは、HSS core model を用いた個別観測レポートです。
+> HSS本体の定義・用語・スコープは [hss-observation-notes](https://github.com/kuroam/hss-observation-notes) を参照してください。
+> 本レポートはHSSの証明ではなく、HSS語彙を仮の観測軸として用いた接続構造の観測メモです。
+
 ## 0. このレポートの扱い
 
 このレポートは、HSSモデルで観測できる範囲において、Byung-Chul Han の議論を粗く読解する観測メモです。

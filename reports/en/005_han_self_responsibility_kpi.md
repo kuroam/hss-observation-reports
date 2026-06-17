@@ -2,6 +2,10 @@
 
 ## HSS Observation Report
 
+> This report is an individual observation report using the HSS core model.
+> For HSS definitions, terminology, and scope, see [hss-observation-notes](https://github.com/kuroam/hss-observation-notes).
+> This report is not proof of HSS; it is a provisional observation note using HSS vocabulary as a tentative observation axis.
+
 ## 0. How this report handles the topic
 
 This report is an observation note that reads Byung-Chul Han’s discussion coarsely within the range observable through the HSS model.
