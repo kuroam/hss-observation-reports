@@ -113,6 +113,24 @@ appear to be routed toward the individual side
 | Self-optimization | State in which optimization appears to be placed on the individual side | Ability, efficiency, productivity |
 | Self-responsibilization | State in which responsibility appears to be placed on the individual side | Evaluation, results, explanatory demands |
 
+## Blue Residuals / Reconnectable Areas
+
+When self-responsibilization circulates as a fixed symbol, management, optimization, and responsibility can easily appear to be placed on the individual side.
+
+However, that processing does not necessarily close completely.
+
+In HSS, the following traces can be observed as Blue residuals / reconnectable areas.
+
+- Discomfort that cannot be fully processed as one’s own problem alone
+- Traces that remain as fatigue toward performance demands and visibility
+- Questions toward external structures that are difficult to return to through individual effort alone
+- Questions that re-check where management, optimization, and responsibility are coming from
+- Conversations and records that attempt to reconnect to organizations, institutions, markets, and evaluation formats
+
+What is handled here is not the individual’s interiority or mental state itself.
+
+HSS handles the reactions, traces, symbols, processing forms, routing, fixation, and reconnectability that appear on L1–L6.
+
 ## 6. Observation hypotheses inferred from the HSS model
 
 ### Hypothesis 1: Self-responsibilization can be observed not as an increase in responsibility, but as routing of responsibility
@@ -152,6 +170,21 @@ This report does not handle the following.
 - Medical explanation of fatigue
 - Value judgments about self-management, self-optimization, or self-responsibility
 - Explaining all modern social problems through this structure
+
+## Connection-Confirmation States
+
+- Connection confirmation:
+  Self-responsibilization can be observed not as a state in which individual responsibility has actually increased, but as a connection state in which management, optimization, and responsibility appear to be routed toward the individual side.
+- Absorption into processing forms:
+  Performance demands, visibility, management, optimization, and responsibility are likely to be processed as self-management, self-optimization, and self-responsibility on the individual side.
+- Tendency toward fixation:
+  When the symbol “self-responsibility” becomes fixed, routes back to external connection structures become harder to see.
+- Blue residuals present:
+  When discomfort, fatigue, overload, or inability to fully explain the state remains, these can be observed as reconnectable traces.
+- Reconnectable areas present:
+  Routes remain for reading management, optimization, and responsibility placed on the individual side back into organizations, institutions, markets, and evaluation formats.
+- Out-of-scope layers:
+  Individual psychology, mental diagnosis, theories of happiness, ethical judgment, and determination of Han’s original intention are not handled here.
 
 ## 8. Source anchors
 
