@@ -84,6 +84,10 @@ Use the following working translations consistently.
 | 処理形式           | processing form                | Used in reports 001, 003, 006.                                         |
 | ルーティング         | routing                        | Use for structural routing.                                            |
 | source anchor  | source anchor                  | Keep as-is.                                                            |
+| 共通可視単位         | common visible unit            | Use in Report 008 for blocks as visible units.                         |
+| ゲーム内接続OS       | game-internal connection OS    | Use in Report 008.                                                     |
+| 読めて書けて遊べる     | readable, writable, and playable | Use in Report 008 title and framing.                                  |
+| 低固定symbol      | low-fixed symbol               | Use in Report 008 for block-related residual framing.                  |
 | 平台             | platform-like field / platform | Choose by context; avoid overexplaining when “platform” is sufficient. |
 
 ## 5. Metaphor handling
@@ -190,8 +194,14 @@ Use working English titles for now.
 | 005 | 自己責任化は個人版KPIである      | Self-Responsibilization as a Personal KPI                  |
 | 006 | AI slopはベルトコンベア問題である | AI Slop as a Conveyor-Belt Problem                         |
 | 007 | 日経平均の上昇は何の積層を価格化しているのか | What Layering Is the Nikkei 225 Rise Pricing?              |
+| 008 | Minecraftはなぜブロックを「読めて書けて遊べる」共通言語にしたのか | Why Did Minecraft Make Blocks a “Readable, Writable, and Playable” Common Language? |
 
 These titles may be revised after translating the full reports.
+
+
+### Report 008 terms
+
+For Report 008, “common language” translates 共通言語, but it does not mean a natural language. It refers to blocks as common visible units that many people can roughly understand and use for reading, writing, modifying, sharing, and playing with the world.
 
 ### Report 007 terms
 
