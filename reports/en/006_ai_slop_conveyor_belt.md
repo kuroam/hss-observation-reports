@@ -446,3 +446,15 @@ Generative AI did not create the conveyor belt; it amplifies what can be poured 
 Frustration toward AI slop can also be observed as frustration toward a candidate-supply structure whose comfort declines when many low-connection symbols are mixed into it.
 
 In HSS terms, the observation point is not whether AI-generated content is good or bad, but which connection structures generation capability connects to, and whether symbols move toward continuous connection, reconnection, re-expansion, and layered history, or are processed only as passage, reaction, and metrics.
+
+## What HSS Made Visible
+
+- AI slop can be observed not as an AI-generation quality problem itself, but as a connection state between massive generation capability and platform-like candidate-supply structures.
+- Low-connection symbols can remain in circulation when they are processable as views, clicks, watch time, reactions, advertising inventory, or recommendation signals.
+- HSS makes visible the difference between choosing by making one’s own connection route and selecting inside a supplied candidate stream.
+
+## What Remains Unseen / Pending
+
+- The report suggests that the same generation capability could also be used for editing or expanding reconnectable areas, but this is not strongly observed in this report.
+- Concrete cases where AI generation supports reconnection or re-expansion remain pending.
+- This report does not evaluate platforms, AI generation, creators, or users as good or bad.

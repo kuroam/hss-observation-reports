@@ -278,3 +278,22 @@ Connection candidates for culture and innovation do not necessarily sasaru in th
 Rather, traces that kasuru and remain may reconnect later through records, media, rediscovery, or changes in receiver-side history.
 
 In HSS terms, the observation point is not whether a symbol immediately sasaru, but how, where, and when it connects, remains, disappears, or returns later.
+
+## What HSS Made Visible
+
+- “Sasaru” can be observed not as simple novelty, but as high-precision connection to existing layered history.
+- “Kasuru” can be observed as touching the edge of a reconnectable area and leaving a trace.
+- This report makes visible that strong immediate reaction and future reconnectability are different connection states.
+
+## What Remains Unseen / Pending
+
+- Something that leaves no trace, no record, no memory, and no later reconnection almost disappears from HSS observation.
+- Therefore, this report can only treat “things that seemed not to connect but left some trace,” not absolute non-connection.
+- This is an observation limit, not a judgment on HSS itself.
+
+## Connection-Confirmation States
+
+- connection confirmed: Sasaru and kasuru can be separated as different connection states.
+- Blue residuals present: Kasuru traces may remain as discomfort, memory, fragments, records, or later reinterpretation.
+- reconnectable area present: Later reconnection may occur through records, rediscovery, context changes, or changes in the receiver-side history.
+- out-of-scope layer / insufficient traces: Completely traceless non-connection is difficult to observe with HSS.

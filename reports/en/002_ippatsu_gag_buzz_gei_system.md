@@ -222,3 +222,22 @@ The difference observed by HSS is not the circulation volume of the symbol itsel
 When a strong symbol connects to a performance system, a one-shot signal is rearranged as an entrance to person memory, scene memory, relations, expectation, and the next development.
 
 Meanwhile, when only the symbol circulates at high speed, the return route to context and layered history becomes narrow, and repetition of the symbol itself comes to the foreground.
+
+## What HSS Made Visible
+
+- Buzz can be observed not as a value judgment, but as a state where symbol transmission speed exceeds the speed of reconnection to context.
+- HSS separates what is circulating: connection possibility, or only an easily processed form such as a phrase, pose, label, hashtag, or reaction format.
+- A one-shot symbol can either reconnect to a performance system, role, relation, memory, or layered history, or circulate without those routes.
+
+## What Remains Unseen / Pending
+
+- This report intentionally does not evaluate named comedians, works, or specific entertainment cases.
+- Because of that, the difference between cases where a symbol reconnects to a performance system and cases where it does not remains abstract.
+- Concrete examples may be handled in a separate report or supplementary note, not here.
+
+## Connection-Confirmation States
+
+- connection confirmed: One-shot symbols can be observed as compressed symbols.
+- absorption into a processing form: Short phrases, poses, labels, and reaction formats can circulate faster than context.
+- reconnectable area present: Reconnection to role, relation, audience memory, and performance system remains possible.
+- insufficient information / pending: Specific cases are not evaluated here.

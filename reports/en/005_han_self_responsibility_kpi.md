@@ -219,3 +219,15 @@ Han-related self-management, self-optimization, and self-responsibilization can 
 This observation does not start from “self.”
 
 HSS treats self-management, self-optimization, and self-responsibilization as states arising when management, optimization, and responsibility appear to be cut out from external connection structures and placed on the individual side.
+
+## What HSS Made Visible
+
+- Self-responsibilization can be observed not by starting from the self, but as management, optimization, and responsibility routed toward the individual side.
+- This allows the report to separate individual psychology from externally routed processing forms.
+- The HSS difference is the routing observation: where management, optimization, and responsibility appear to come from, where they are placed, and where reconnection routes narrow.
+
+## What Remains Unseen / Pending
+
+- This report does not directly observe individual psychology, fatigue itself, happiness, medical diagnosis, or Han’s definitive intent.
+- The current report observes fixation and routing more strongly than Blue residuals or reconnection.
+- Where reconnection routes remain available is still pending.
