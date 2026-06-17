@@ -26,7 +26,7 @@ Derivative formats such as PDFs may be added as needed.
 
 ## Suggested Reading Order
 
-For first-time readers, it is usually easiest to read README first, then Reports 001, 003, 004, 006, and 007. This order makes it easier to follow compression into processing forms, unfixed connection candidates, traces and reconnectable areas, platform-like candidate supply, and pricing into an index symbol.
+For first-time readers, it is usually easiest to read README first, then Reports 001, 003, 004, 006, 008, and 007. This order makes it easier to follow compression into processing forms, unfixed connection candidates, traces and reconnectable areas, platform-like candidate supply, the contrast between low-connection symbols and low-fixed symbols, and pricing into an index symbol.
 
 Reports 002 and 005 can be read as supporting observations on high-speed symbol circulation and individual-side routing of management, optimization, and responsibility.
 
