@@ -77,7 +77,7 @@ The table below lists the Japanese canonical reports and the available English w
 | 005 | Self-Responsibilization as a Personal KPI | [reports/ja/005_han_self_responsibility_kpi.md](reports/ja/005_han_self_responsibility_kpi.md) | [reports/en/005_han_self_responsibility_kpi.md](reports/en/005_han_self_responsibility_kpi.md) | Observes Han-related self-management, self-optimization, and self-responsibilization as management, optimization, and responsibility routed toward the individual side. |
 | 006 | AI Slop as a Conveyor-Belt Problem | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | [reports/en/006_ai_slop_conveyor_belt.md](reports/en/006_ai_slop_conveyor_belt.md) | Observes AI slop not as an AI-generation problem itself, but as a state where massive generation capability connects to candidate-supply structures, view-count business, and reaction metrics. |
 | 007 | Nikkei 225 Rise and the Mismatch Between Valued Layering and Rising Numbers | [reports/ja/007_nikkei_layered_value_price.md](reports/ja/007_nikkei_layered_value_price.md) | [reports/en/007_nikkei_layered_value_price.md](reports/en/007_nikkei_layered_value_price.md) | Observes the Nikkei 225 rise not as a simple rise of the whole Japanese economy, but as a structure where value layered in workers, workplaces, and operations is priced as corporate value, capital efficiency, stock prices, and an index symbol. |
-| 008 | Minecraft and Blocks as a Readable, Writable, Playable Common Language | [reports/ja/008_minecraft_block_common_language.md](reports/ja/008_minecraft_block_common_language.md) | English report: not yet added | Observes Minecraft not as mere freedom, but as a game-internal connection OS using blocks as common visible units. |
+| 008 | Minecraft and Blocks as a Readable, Writable, Playable Common Language | [reports/ja/008_minecraft_block_common_language.md](reports/ja/008_minecraft_block_common_language.md) | [reports/en/008_minecraft_block_common_language.md](reports/en/008_minecraft_block_common_language.md) | Observes Minecraft not as a highly free game, but as a game-internal connection OS that uses blocks as common visible units for reading, writing, breaking, building, and sharing the world. |
 
 ## Source Notes
 
@@ -90,7 +90,7 @@ The table below lists the Japanese canonical reports and the available English w
 | 005 | [sources/ja/005_han_sources.md](sources/ja/005_han_sources.md) | [sources/en/005_han_sources.md](sources/en/005_han_sources.md) |
 | 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) | [sources/en/006_ai_slop_sources.md](sources/en/006_ai_slop_sources.md) |
 | 007 | [sources/ja/007_nikkei_sources.md](sources/ja/007_nikkei_sources.md) | [sources/en/007_nikkei_sources.md](sources/en/007_nikkei_sources.md) |
-| 008 | [sources/ja/008_minecraft_sources.md](sources/ja/008_minecraft_sources.md) | English source note: not yet added |
+| 008 | [sources/ja/008_minecraft_sources.md](sources/ja/008_minecraft_sources.md) | [sources/en/008_minecraft_sources.md](sources/en/008_minecraft_sources.md) |
 
 ## Connections Between Reports
 
