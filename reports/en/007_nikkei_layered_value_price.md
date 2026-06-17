@@ -241,6 +241,19 @@ Even when a stock-price rise appears as capital-efficiency improvement, long-ter
 
 Even if stock prices or indexes rise, if they do not reconnect to wages, investment, staffing, skill succession, and workplace improvement, the felt sense of being valued has difficulty returning to the layering source.
 
+## What HSS Made Visible
+
+- The Nikkei 225 rise can be observed not as a simple rise of the whole Japanese economy, but as pricing into an index symbol.
+- HSS makes visible the mismatch between where value may have layered and where numbers rise.
+- The important HSS question is whether priced value reconnects to the place where value layered.
+
+## What Remains Unseen / Pending
+
+- This report does not observe concrete cases where priced value reconnects or does not reconnect to wages, investment, staffing, skill succession, workplace improvement, or living experience.
+- The difference between reconnection and non-reconnection remains an observation point.
+- The hypotheses in this report should be read as observation questions, not confirmed conclusions.
+- This report does not provide investment advice, market forecasts, policy judgment, or evaluation of individual companies, workers, investors, management, government, or unions.
+
 ## L1–L3 Observation Points
 
 - L1 contact layer:

@@ -206,3 +206,22 @@ What this report observes is the connection structure in which those compressed 
 When compressed symbols no longer reconnect to the original questions, routing toward purpose, customer, value, and results becomes narrower, and indicators themselves begin to behave like objectives.
 
 In HSS terms, this state can be observed as capture of the objective function, loss of return movement, narrowing of layered history, and scraping away of Shiwa, the accumulated wrinkles or texture formed through layered history and repeated connection.
+
+## What HSS Made Visible
+
+- Drucker-like questions can be observed not as answers to KPIs, but as reconnection triggers back to mission, customer, value, results, and plan.
+- KPI / MBO / dashboard can be observed as compressed symbols or processing forms.
+- The HSS difference is not simply that “KPI becomes formalized,” but that a reconnection trigger may be compressed into a processing form.
+
+## What Remains Unseen / Pending
+
+- This report does not observe concrete organizations where reconnection remains strong or becomes weak.
+- The structural difference between cases where reconnection routes remain available and cases where they narrow remains pending.
+- This report does not claim to prove Drucker’s intent.
+
+## Connection-Confirmation States
+
+- connection confirmed: Drucker-like questions can be treated as reconnection triggers in this observation.
+- absorption into a processing form: Objectives, KPI, evaluation, and dashboards can absorb the original question route.
+- reconnectable area present: If the question can return to mission, customer, value, results, and plan, reconnectable areas remain.
+- insufficient information / pending: Concrete organizational cases are not confirmed in this report.

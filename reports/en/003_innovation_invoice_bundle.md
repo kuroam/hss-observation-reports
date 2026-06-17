@@ -282,3 +282,22 @@ Innovation candidates do not stop because they are bad.
 They may stop because their connection possibilities are compressed into forms that existing organizations can approve, budget, evaluate, assign, and process.
 
 In HSS terms, the observation point is whether the candidate can reconnect to the new pin, or whether it remains only as an invoice bundle attached to an existing processing pin.
+
+## What HSS Made Visible
+
+- “Invoice bundle” can be observed not as approval itself, but as a processing form into which unfixed connection candidates are shaped.
+- The HSS difference is that the report separates new pins, unprocessed candidates, existing processing pins, and invoice bundles.
+- This makes visible what is converted, which route becomes thicker, and which exploratory route may become thinner.
+
+## What Remains Unseen / Pending
+
+- This report does not observe specific organizations where exploratory routing remains available or disappears.
+- The structural difference between organizations that preserve exploratory routes and those that do not remains pending.
+- This report should not be read as saying approval, budget, KPI, or phase-gate processes are bad.
+
+## Connection-Confirmation States
+
+- connection confirmed: Unfixed connection candidates can be converted into organization-processable forms.
+- absorption into a processing form: Business case, budget, owner, KPI, risk, and phase-gate can absorb the candidate.
+- Blue residuals present: If discomfort, prototype traces, customer reactions, or unresolved questions remain, reconnectable traces may remain.
+- insufficient information / pending: Concrete organizational differences are not confirmed in this report.
