@@ -24,7 +24,7 @@ Used to observe how playback, revenue distribution, and peripheral routes are ex
 
 Use:
 Treated as a source anchor for checking the streaming economy, payout flow, and platform-side explanations.
-It is used not to prove the streaming-type revenue model as the normal system, but to observe how the platform explains its own processing form.
+It is used not to treat the streaming-type revenue model as the baseline, but to observe how the platform explains its own processing form.
 
 ### Revenue sharing at music streaming platforms
 
@@ -35,8 +35,8 @@ Used to observe the structure by which play counts and user units connect to rev
 ### The Impact of Social Media on Music Demand
 
 Use:
-Treated as a source anchor for checking the connection among short video, SNS exposure, and streaming demand.
-Used to observe that music is connected not only to the audio source itself, but also to contact and exposure on SNS.
+Treated as a source anchor for checking the connection between short-video exposure, social media exposure, and streaming demand.
+Used to observe that music is connected not only to the recording itself, but also to contact and exposure on social media.
 
 ### AI-Generated Algorithmic Virality
 
