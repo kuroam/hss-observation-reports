@@ -1,4 +1,4 @@
-# 009. What Does the Phenomenon Called AI slop Problematize?
+# 009. What Does the Phenomenon Called AI Slop Actually Problematize?
 
 ## Observation Report Using the HSS Model
 
