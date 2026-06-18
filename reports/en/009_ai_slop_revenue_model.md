@@ -685,6 +685,9 @@ The good or bad of AI generation, legal evaluation, superiority or inferiority o
 
 ## 16. Source anchors
 
+Formal links, source metadata, and caution notes are maintained in the [source note](../../sources/en/009_ai_slop_revenue_model_sources.md).
+This section only summarizes how each source anchor is used as an observation foothold in the report.
+
 This report refers to the following source anchors.
 
 These are treated not as grounds for proving each claim, but as observation footholds for seeing which processing forms, positions, anxieties, and revenue models the term AI slop connects to.
