@@ -1,5 +1,7 @@
 # 009. AI slop / 接触収益モデル Sources
 
+> Related report: [009_ai_slop_revenue_model.md](../../reports/ja/009_ai_slop_revenue_model.md)
+
 このsource noteは、包括的な文献一覧ではありません。
 ここに挙げる資料は、HSSの根拠や土台ではなく、観測対象が外部でどのように説明されているかを確認するためのsource anchorです。
 

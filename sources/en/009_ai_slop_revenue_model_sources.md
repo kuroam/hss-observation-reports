@@ -1,5 +1,7 @@
 # 009. AI slop / Contact-Revenue Model Sources
 
+> Related report: [009_ai_slop_revenue_model.md](../../reports/en/009_ai_slop_revenue_model.md)
+
 This source note is not a comprehensive bibliography.
 The materials listed here are source anchors for checking how the observed subject is explained externally, not grounds or foundations for HSS.
 

@@ -6,6 +6,8 @@
 > HSS本体の定義・用語・スコープは [hss-observation-notes](https://github.com/kuroam/hss-observation-notes) を参照してください。
 > 本レポートはHSSの証明ではなく、HSS語彙を仮の観測軸として用いた接続構造の観測メモです。
 
+> Source note: [009_ai_slop_revenue_model_sources.md](../../sources/ja/009_ai_slop_revenue_model_sources.md)
+
 ## 0. このレポートの立場と観測方法
 
 このレポートでは、AIを使う側／使わない側、人間制作／AI生成という単純な対立軸を前提にしません。
