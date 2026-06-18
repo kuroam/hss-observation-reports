@@ -372,12 +372,12 @@ The issue is that AI's mass-generation capability has connected to the already-i
 ```mermaid
 flowchart TD
   AI[AI generation capability]
-  S1[Audio source]
+  S1[Recording]
   S2[Lyrics]
   S3[Cover art]
   S4[Description]
   S5[Profile]
-  S6[social media post]
+  S6[Social media post]
   S7[Short-video material]
   S8[Comment-like text]
 
