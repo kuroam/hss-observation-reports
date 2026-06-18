@@ -19,7 +19,7 @@ It also does not judge the value of AI-generated outputs themselves.
 
 What it addresses is which issues the term AI slop bundles into a single label.
 
-Being AI-generated, being low-quality, being low-effort, being mass-posted, having low play counts, having low connection, aiming at improper revenue, disguising itself as human-authored, including rights issues, being regarded as threatening existing industries, and platforms being unable to process works sufficiently.
+Being AI-generated, being low-quality, being low-effort, being mass-posted, having low play counts, having low connection, aiming at fraudulent revenue, disguising itself as human-authored, including rights issues, being regarded as threatening existing industries, and platforms being unable to process works sufficiently.
 
 These may connect to one another.
 However, they are not the same thing.
@@ -41,25 +41,25 @@ This report does not treat this question as a judgment of the good or bad, or th
 The question here is what becomes problematized by the term AI slop, and which connection structures, processing forms, and revenue models are compressed into one label.
 
 The place into which AI slop is said to flow is often a platform.
-Especially in music, streaming platforms, playlists, recommendations, SNS, short video, play counts, saves, impressions, advertising, and subscription revenue distribution are involved.
+Especially in music, streaming platforms, playlists, recommendations, social media, short video, play counts, saves, impressions, advertising, and subscription revenue distribution are involved.
 
 If so, the first question to ask is different.
 
-**Before asking what AI slop is, what does the revenue model into which AI slop is said to flow count and process as the connection among music, peripheral content, creators, and listeners?**
+**Before asking what AI slop is, what does the revenue model into which AI slop is said to flow count and process as the connections linking music, peripheral content, creators, and listeners?**
 
 This is the central question of this report.
 
-If existing streaming platforms are placed as the normal system and AI-generated music is then treated only as a foreign object on top of them, something becomes difficult to see.
+If existing streaming platforms are treated as the baseline and AI-generated music is then treated only as a foreign object on top of them, something becomes difficult to see.
 
 When did music become a play event?
 What do play counts measure?
 Are deep connections to music and shallow contact processed as the same play event?
-How are audio sources, videos, SNS posts, profiles, comments, live-performance routes, and fan communities connected to the same platform metrics?
+How are recordings, videos, social media posts, profiles, comments, live-performance routes, and fan communities connected to the same platform metrics?
 Where did AI generation capability connect to that structure?
 
 This report does not treat the phenomenon called AI slop as a problem of AI-generated outputs themselves.
 
-It treats it as a problem observed when AI's low-friction mass-generation capability connects to a revenue model that takes play counts, impressions, recommendations, saves, follows, SNS reactions, peripheral contact content, and revenue distribution as value units.
+It treats it as a problem observed when AI's low-friction mass-generation capability connects to a revenue model that takes play counts, impressions, recommendations, saves, follows, social media reactions, peripheral contact content, and revenue distribution as value units.
 
 For convenience, this report calls the structure that connects contact metrics such as play counts, impressions, saves, follows, comments, shares, and dwell time to recommendations, exposure, advertising, subscription retention, and revenue distribution the “contact-revenue model.”
 
@@ -110,7 +110,7 @@ However, what each point indicates needs to be separated.
 | AI songs pass through distributor experiments | Weak entry constraints / threat of AI inflow | Self-reporting systems, AI detection, review operations, policy enforcement, and quality review need to be separated |
 | Detector evasion is possible | Difficulty of AI moderation | This shows instability in AI judgment, but it is not a judgment of music quality |
 | There are royalty estimates | Becoming a shadow industry | Revenue possibility and autonomous industrialization are separate. This is treated as connectability to a revenue model |
-| The question is posed as preventing / throttling AI music slop | Industry defense | It is necessary to check whether the existing streaming ecosystem is being placed as the normal system |
+| The question is posed as preventing / throttling AI music slop | Industry defense | It is necessary to check whether the existing streaming ecosystem is being treated as the baseline |
 
 The point of this table is not to say that the primary target paper is wrong.
 
@@ -132,11 +132,11 @@ However, in practice, each era has converted music into different processing uni
 | Period | Main processing unit | Revenue center | Connection with creators | What is hard to see |
 | --- | --- | --- | --- | --- |
 | CD sales | Physical product | Purchase | Live performances, fan clubs, stores, magazines, TV, radio | Depth of listening after purchase, revisits, memory |
-| Download sales | Data product | Purchase | Live performances, Web, official sites, blogs, early SNS | Connection after purchase, copying, piracy, unauthorized circulation |
-| Streaming | Play event | Play counts, streamshare, advertising, subscription distribution | Playlists, recommendations, SNS, videos, follows, saves | Depth of connection, context, live-performance connection, long-term relationship |
+| Download sales | Data product | Purchase | Live performances, Web, official sites, blogs, early social media | Connection after purchase, copying, piracy, unauthorized circulation |
+| Streaming | Play event | Play counts, streamshare, advertising, subscription distribution | Playlists, recommendations, social media, videos, follows, saves | Depth of connection, context, live-performance connection, long-term relationship |
 
 In CD sales, music was mainly treated as a physical product.
-CDs, albums, singles, jackets, lyric booklets, stores, distribution, and purchase were at the center of revenue.
+CDs, albums, singles, cover art, lyric booklets, stores, distribution, and purchase were at the center of revenue.
 
 Of course, CD sales figures also do not fully measure the depth of connection to music.
 How many times it was listened to after purchase, or which memories it connected to, cannot be known from sales figures alone.
@@ -163,21 +163,21 @@ The phenomenon called AI slop becomes an occasion that makes the roughness of th
 
 ## 5. Music Is No Longer Only “Sound”
 
-In the music market after streaming, music does not circulate only as an audio source by itself.
+In the music market after streaming, music does not circulate only as a recording by itself.
 
-Music itself includes the audio source, song, performance, recording, lyrics, composition, arrangement, saving, repeated listening, and playlist context.
+Music itself includes the track, song, performance, recording, lyrics, composition, arrangement, saving, repeated listening, and playlist context.
 
 At the same time, peripheral contact content connected to music has also increased.
 
-Music videos, short videos, SNS posts, live announcements, production processes, profiles, comments, fan communities, playlist context, sharing routes, artwork, and descriptions.
+Music videos, short videos, social media posts, live announcements, production processes, profiles, comments, fan communities, playlist context, sharing routes, artwork, and descriptions.
 
 These are not music itself.
 
-However, in the streaming / SNS era, they function as peripheral content that maintains and expands connections to music and connects them to reaction metrics on platforms.
+However, in the streaming / social media era, they function as peripheral content that maintains and expands connections to music and connects them to reaction metrics on platforms.
 
-Through this change, music has moved closer from “a commodity that sells sound” to “a composite SNS-community-type commodity centered on sound.”
+Through this change, music has moved closer from “a commodity that sells sound” to “a composite social-media-community-type commodity centered on sound.”
 
-Creators are pressured to provide not only audio sources, but also SNS posts, videos, comments, live-performance routes, fan communities, production processes, and related elements for free or with low revenue.
+Creators are pressured to provide not only recordings, but also social media posts, videos, comments, live-performance routes, fan communities, production processes, and related elements for free or with low revenue.
 
 An asymmetry appears here.
 
@@ -186,9 +186,9 @@ Meanwhile, revenue and evaluation are roughly compressed into platform processin
 
 In this structure, music is not only “sound.”
 
-Audio sources, videos, SNS, profiles, live-performance routes, and fan communities are bundled as an environment for producing continuous contact.
+Recordings, videos, social media, profiles, live-performance routes, and fan communities are bundled as an environment for producing continuous contact.
 
-If the phenomenon called AI slop is seen only as a mass inflow of AI-generated audio sources, this premise becomes difficult to see.
+If the phenomenon called AI slop is seen only as a mass inflow of AI-generated recordings, this premise becomes difficult to see.
 
 ---
 
@@ -203,19 +203,19 @@ The pressure to supply peripheral contact content does not come from a single ac
 | Advertising / revenue model | Number of contacts, viewing, dwell time | Inventoried attention |
 | Recommendation algorithm | Has no intention | Forms that get reactions and are hard to leave |
 | Labels / distributors | Exposure, growth, fan retention | Metric improvement, catalog utilization |
-| Creators | Want to reach, remain, sell | SNS, videos, live-performance routes, fan response |
+| Creators | Want to reach, remain, sell | Social media, videos, live-performance routes, fan response |
 | Actors aiming at mass generation / monetization | Want to monetize, test, fill | Low-cost mass input |
 
 Demand here does not mean only consumers' explicit desires.
 
-It also includes supply pressure produced by the overlap among platform metrics, recommendations, exposure, revenue distribution, and creator-side survival strategies.
+It also includes supply pressure produced by the overlap of platform metrics, recommendations, exposure, revenue distribution, and creator-side survival strategies.
 
 This demand is not something ordered by any one person.
 
 Consumers' demand for convenience is converted into platform metrics.
 Platform metrics are converted into recommendation and exposure.
 Recommendation and exposure return to creators' survival strategies.
-Creators supply not only audio sources but also peripheral contact content.
+Creators supply not only recordings but also peripheral contact content.
 That supplied material returns again to platform metrics.
 
 Through this cycle, demand for contact content increases.
@@ -240,9 +240,9 @@ However, when play count becomes the basis for revenue, recommendations, exposur
 ```mermaid
 flowchart TD
   A1[Active repeated listening]
-  A2[One-off contact that only flowed in]
-  A3[Left on as BGM]
-  A4[Left midway]
+  A2[Incidental one-off play]
+  A3[Left playing as background music]
+  A4[Abandoned partway]
   A5[Playback leading to a save]
   A6[Fraudulent play / bot play]
 
@@ -271,7 +271,7 @@ flowchart TD
 Even for the same one play, there are different states as human-side connections.
 
 Deep repeated listening differs from shallow one-off contact.
-Playback leading to a save differs from BGM-like passage.
+Playback leading to a save differs from background-music-like passage.
 Fraudulent plays and bot plays also differ from ordinary listening.
 
 However, on the platform, they are first processed as play events.
@@ -335,9 +335,9 @@ Even with the same symbol AI slop, there is not only one connection destination.
 
 | Position | Connection to protect / obstructed connection | What appears as AI slop | Issues easily confused | HSS view |
 | --- | --- | --- | --- | --- |
-| Creator wanting to spread their own songs / works | Search, recommendations, SNS display, playlists, approval, paths for discovery | Competing noise that takes visibility | AI generation, low quality, mass posting, exposure competition | “Routes by which works arrive” become clouded by low-connection mass-generated outputs |
+| Creator wanting to spread their own songs / works | Search, recommendations, social media display, playlists, approval, paths for discovery | Competing noise that takes visibility | AI generation, low quality, mass posting, exposure competition | “Routes by which works arrive” become clouded by low-connection mass-generated outputs |
 | User wanting to consume flowing content | Feed, playlists, short video, recommendation candidate rows, scrolling experience | Low-quality noise that worsens the feed experience | Low quality, similar content, bait, repeated display | Appears as quality degradation in the candidate rows supplied by platforms |
-| Fan / community participant wanting to follow deeply | Personhood, continuity, story, live-performance routes, memory, relationships | Noise that makes authenticity or personhood doubtful | AI judgment, disguise, personality, fan relationships | Connection to creator, place, and memory becomes unstable, not only the work itself |
+| Fan / community participant wanting to follow deeply | Actual artist identity, continuity, story, live-performance routes, memory, relationships | Noise that makes authenticity or actual artist identity doubtful | AI judgment, disguise, artist authenticity, fan relationships | Connection to creator, place, and memory becomes unstable, not only the work itself |
 | Curator / reviewer / moderator / distributor | Selection, review, recommendation, publication judgment, quality checking | Selection, review, and moderation load | Quality judgment, AI detection, policy enforcement | Processing load before judgment increases, and confirmation work is externalized |
 | Existing creator / rightsholder / label / catalog holder | Rights, revenue distribution, search results, catalog value, brand | Dilution of rights, revenue, and existing catalogs | Rights infringement, imitation, revenue leakage, industry defense | While described as an AI problem, it is routed toward defense of existing assets |
 | Creator using AI | Explanation of production route, work evaluation, legitimate connection | Label pollution in which AI involvement alone makes something treated as slop | AI generation, low effort, low quality, disguise | The generation route alone is emphasized, crushing evaluation of the work or connection |
@@ -356,13 +356,13 @@ Before saying “AI slop is a problem,” it is necessary to separate whose conn
 
 AI did not create the play-count model.
 It also did not create the streaming-type revenue model.
-Nor is it the entire cause of music moving closer to an SNS-community-type composite commodity.
+Nor is it the entire cause of music moving closer to a social-media-community-type composite commodity.
 
 However, AI has capabilities that connect very easily to that structure.
 
-AI does not generate only audio sources.
+AI does not generate only recordings.
 
-Lyrics, jackets, descriptions, profiles, SNS posts, short-video materials, comment-like text, derivative content.
+Lyrics, cover art, descriptions, profiles, social media posts, short-video materials, comment-like text, derivative content.
 It can supply these with low friction, in large quantities, and in a short time.
 
 What becomes an issue here is not that AI “can make music” itself.
@@ -374,10 +374,10 @@ flowchart TD
   AI[AI generation capability]
   S1[Audio source]
   S2[Lyrics]
-  S3[Jacket]
+  S3[Cover art]
   S4[Description]
   S5[Profile]
-  S6[SNS post]
+  S6[social media post]
   S7[Short-video material]
   S8[Comment-like text]
 
@@ -418,8 +418,8 @@ flowchart TD
   D --> M7
 ```
 
-In the streaming / SNS type music market, what is required of creators is not only audio sources.
-Peripheral content for delivering the audio source, profile-ness, videos, posts, live-performance routes, community maintenance, and continuous contact are also required.
+In the streaming / social media type music market, what is required of creators is not only recordings.
+Peripheral content for delivering the recording, profile presence, videos, posts, live-performance routes, community maintenance, and continuous contact are also required.
 
 And on platforms, these are processed into play counts, impressions, saves, follows, comments, shares, dwell time, recommendations, and revenue distribution.
 
@@ -448,7 +448,7 @@ AI generation capability connects to already-existing platform processing forms,
 
 ### 11.2 Connection destination
 
-Connection destinations include play counts, impressions, recommendations, revenue distribution, advertising inventory, SNS reactions, community maintenance, authenticity display, fraud detection, existing-industry defense, platform reliability, and customer-acquisition routes.
+Connection destinations include play counts, impressions, recommendations, revenue distribution, advertising inventory, social media reactions, community maintenance, authenticity display, fraud detection, existing-industry defense, platform reliability, and customer-acquisition routes.
 
 The term AI slop is routed to these connection destinations in different ways.
 
@@ -491,8 +491,8 @@ Traces include saves, revisits, repeated listening, comments, becoming a fan, di
 Play counts alone cannot sufficiently decompose these traces.
 
 Deep repeated listening differs from one-off contact that only flowed in.
-Listening that connects to a live performance also differs from listening that passes through as BGM.
-Music that is saved, revisited, and remembered also differs from an audio source that is quickly forgotten.
+Listening that connects to a live performance also differs from listening that passes through as background music.
+Music that is saved, revisited, and remembered also differs from a recording that is quickly forgotten.
 
 However, on platforms, these are first processed as play events.
 
@@ -520,7 +520,7 @@ As supporting lines, this section treats the classical music market and the Hats
 
 In classical music, music does not exist only as a single track.
 
-Works, scores, composers, performances, interpretations, conductors, performers, orchestras, recordings, halls, reperformance, criticism, education, history, repertoire, listening experience.
+Works, scores, composers, performances, interpretations, conductors, performers, orchestras, recordings, halls, repeat performance, criticism, education, history, repertoire, listening experience.
 
 These each have different connection destinations.
 
@@ -557,7 +557,7 @@ What matters is which connections are formed.
 From the observations so far, the phenomenon called AI slop cannot be read as a problem produced by AI alone.
 
 AI generation capability is an important connection source.
-That is because it can generate audio sources and peripheral content with low friction and in large quantities.
+That is because it can generate recordings and peripheral content with low friction and in large quantities.
 
 However, it becomes problematized not because AI-generated outputs exist alone.
 
@@ -567,14 +567,14 @@ They are counted as play events.
 They connect to recommendations.
 They may enter playlists.
 They connect to royalty pools.
-They also become peripheral contact content as SNS posts, short videos, profiles, descriptions, and comment-like text.
+They also become peripheral contact content as social media posts, short videos, profiles, descriptions, and comment-like text.
 Through AI-generated labels, they also connect to recommendation control, chart classification, reward differences, transparency, and platform reliability.
 
 In other words, AI slop is problematized not by AI-generated outputs themselves, but by which processing forms AI-generated outputs enter.
 
 This report does not treat the phenomenon called AI slop as a problem of AI-generated outputs themselves.
 
-It is a problem observed when AI's low-friction mass-generation capability connects to a revenue model that takes play counts, impressions, recommendations, saves, follows, SNS reactions, peripheral contact content, and revenue distribution as value units.
+It is a problem observed when AI's low-friction mass-generation capability connects to a revenue model that takes play counts, impressions, recommendations, saves, follows, social media reactions, peripheral contact content, and revenue distribution as value units.
 
 The term AI slop easily compresses this connection problem on the revenue model into one word together with AI generation, low quality, mass posting, fraud, rights issues, and existing-industry defense.
 
@@ -632,7 +632,7 @@ In particular, a state can be confirmed in which AI generation, low quality, low
 
 Connections to music itself and peripheral contact content are easily absorbed on platforms into play counts, impressions, saves, follows, comments, shares, recommendations, and revenue distribution.
 
-Deep repeated listening, shallow one-off contact, BGM-like passage, fraudulent plays, and playback leading to a save are different as human-side traces.
+Deep repeated listening, shallow one-off contact, background-music-like passage, fraudulent plays, and playback leading to a save are different as human-side traces.
 However, on platforms, they are first processed as play events.
 
 ### Different connection destinations
@@ -641,7 +641,7 @@ The term AI slop does not have a single connection destination.
 
 For creators, obstruction of visibility.
 For consumers, degradation of feed or playlist quality.
-For fans who want to follow deeply, instability in personhood or authenticity.
+For fans who want to follow deeply, instability in actual artist identity or authenticity.
 For curators and distributors, selection and review load.
 For rightsholders and labels, dilution of revenue distribution and catalog value.
 For creators using AI, label pollution in which AI involvement alone leads to treatment as slop.
@@ -701,10 +701,10 @@ These are treated not as grounds for proving each claim, but as observation foot
   * Use: Design discussions of streaming revenue-distribution models such as pro-rata / user-centric models.
 * The Impact of Social Media on Music Demand
 
-  * Use: Connection between short video / SNS exposure and streaming demand.
+  * Use: Connection between short video / social media exposure and streaming demand.
 * AI-Generated Algorithmic Virality
 
-  * Use: Connection among feed / search / ranking / algorithmic virality and AI-generated content.
+  * Use: The connection between feed/search/ranking/algorithmic virality and AI-generated content.
 * Measuring AI “Slop” in Text
 
   * Use: Instability of AI slop definitions and measurements.
