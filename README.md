@@ -24,7 +24,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 
 ## 読み方の目安
 
-初見の場合は、まず README を読んだうえで、001、003、004、006、008、007 の順に読むと、処理形式への圧縮、未固定の接続候補、痕跡・再接続可能領域、平台型の候補供給、低接続symbolと低固定symbolの対比、指数symbolへの価格化が追いやすくなります。
+初見の場合は、まず README を読んだうえで、001、003、004、006、008、009、007 の順に読むと、処理形式への圧縮、未固定の接続候補、痕跡・再接続可能領域、平台型の候補供給、低接続symbolと低固定symbolの対比、接触収益モデルへの接続、指数symbolへの価格化が追いやすくなります。
 
 002 と 005 は、それぞれ symbol の高速流通、管理・最適化・責任の個人側ルーティングを補助的に読むレポートとして扱えます。
 
@@ -60,6 +60,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 006 | AI slopはベルトコンベア問題である | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | いわゆるAI slopを、AI生成そのものではなく、候補供給構造・再生数ビジネス・反応指標に生成AIの大量生成能力が接続された観測状態としてHSSで分解する。 |
 | 007 | 日経平均の上昇は何の積層を価格化しているのか | [reports/ja/007_nikkei_layered_value_price.md](reports/ja/007_nikkei_layered_value_price.md) | 日経平均の上昇を、日本経済全体の単純な値上がりではなく、労働者・現場・運用側に積層された価値が、企業価値・資本効率・株価・指数として価格化される構造として観測する。 |
 | 008 | Minecraftはなぜブロックを「読めて書けて遊べる」共通言語にしたのか | [reports/ja/008_minecraft_block_common_language.md](reports/ja/008_minecraft_block_common_language.md) | Minecraftを、自由度の高いゲームとしてではなく、ブロックという共通可視単位によって、世界を読む・書く・壊す・作る・共有するための接続OSとしてHSSで観測する。 |
+| 009 | AI slopと呼ばれる現象は何を問題化しているのか | [reports/ja/009_ai_slop_revenue_model.md](reports/ja/009_ai_slop_revenue_model.md) | AI slopという語を、AI生成物そのものの価値判断ではなく、streaming platform、接触指標、推薦、収益分配へ接続される複数論点の圧縮symbolとしてHSSで分解する。 |
 
 ## Source Notes
 
@@ -73,6 +74,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 006 | [sources/ja/006_ai_slop_sources.md](sources/ja/006_ai_slop_sources.md) |
 | 007 | [sources/ja/007_nikkei_sources.md](sources/ja/007_nikkei_sources.md) |
 | 008 | [sources/ja/008_minecraft_sources.md](sources/ja/008_minecraft_sources.md) |
+| 009 | [sources/ja/009_ai_slop_revenue_model_sources.md](sources/ja/009_ai_slop_revenue_model_sources.md) |
 
 ## レポート間の接続
 
@@ -87,6 +89,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 - 005 → 007: 労働者・現場・運用側に積層された処理負荷と価格化される数字のズレ
 - 004 → 008: 低固定symbolに残るBlue residualsと再接続可能領域
 - 006 → 008: platform側で処理される低接続symbolと、プレイヤー側の制作へ戻る低固定symbolの対比
+- 006 → 009: AI slopを、候補供給問題から接触収益モデル・収益分配・処理形式への接続問題へ広げる構造
 - 003 → 008: 未固定の接続候補が既存の処理形式へ圧縮されず、プレイヤー側の構築へ戻る構造
 
 これらの接続は、各レポートの結論を固定するものではなく、HSSを仮の観測軸として用いたときに見える接続関係のメモです。
