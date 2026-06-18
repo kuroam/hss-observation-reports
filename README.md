@@ -60,7 +60,7 @@ PDFなどの派生形式は、必要に応じて追加します。
 | 006 | AI slopはベルトコンベア問題である | [reports/ja/006_ai_slop_conveyor_belt.md](reports/ja/006_ai_slop_conveyor_belt.md) | いわゆるAI slopを、AI生成そのものではなく、候補供給構造・再生数ビジネス・反応指標に生成AIの大量生成能力が接続された観測状態としてHSSで分解する。 |
 | 007 | 日経平均の上昇は何の積層を価格化しているのか | [reports/ja/007_nikkei_layered_value_price.md](reports/ja/007_nikkei_layered_value_price.md) | 日経平均の上昇を、日本経済全体の単純な値上がりではなく、労働者・現場・運用側に積層された価値が、企業価値・資本効率・株価・指数として価格化される構造として観測する。 |
 | 008 | Minecraftはなぜブロックを「読めて書けて遊べる」共通言語にしたのか | [reports/ja/008_minecraft_block_common_language.md](reports/ja/008_minecraft_block_common_language.md) | Minecraftを、自由度の高いゲームとしてではなく、ブロックという共通可視単位によって、世界を読む・書く・壊す・作る・共有するための接続OSとしてHSSで観測する。 |
-| 009 | AI slopと呼ばれる現象は何を問題化しているのか | [reports/ja/009_ai_slop_revenue_model.md](reports/ja/009_ai_slop_revenue_model.md) | AI slopという語を、AI生成物そのものの価値判断ではなく、streaming platform、接触指標、推薦、収益分配へ接続される複数論点の圧縮symbolとしてHSSで分解する。 |
+| 009 | AI slopと呼ばれる現象は、実際には何を問題化しているのか | [reports/ja/009_ai_slop_revenue_model.md](reports/ja/009_ai_slop_revenue_model.md) | AI slopという語を、AI生成物そのものの価値判断ではなく、streaming platform、接触指標、推薦、収益分配へ接続される複数論点の圧縮symbolとしてHSSで分解する。 |
 
 ## Source Notes
 
