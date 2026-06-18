@@ -6,6 +6,8 @@
 > For HSS definitions, terminology, and scope, see [hss-observation-notes](https://github.com/kuroam/hss-observation-notes).
 > This report does not prove HSS. It is an observation memo on connection structures, using HSS vocabulary as a tentative observation axis.
 
+> Source note: [009_ai_slop_revenue_model_sources.md](../../sources/en/009_ai_slop_revenue_model_sources.md)
+
 ## 0. Position and Observation Method of This Report
 
 This report does not assume a simple opposition between those who use AI and those who do not, or between human production and AI generation.
